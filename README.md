@@ -1,10 +1,10 @@
-# Available .DIRECTORY One-Word Domains (10,854)
+# Available .DIRECTORY One-Word Domains (11,434)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C854%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C434%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .directory one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,854 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,434 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,854 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,434 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/directory`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| goto.directory         | available | $7.99     | —             | 66             | 45     | 5      | name.com         |
-| home.directory         | resell    | —         | —             | 90             | 62     | 4      | Porkbun LLC      |
-| farmers.directory      | premium   | $28       | $28           | 54             | 59     | 7      | namecheap        |
-| aliens.directory       | available | $7.99     | —             | 56             | 35     | 6      | name.com         |
-| robots.directory       | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc      |
-| SanDiego.directory     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
-| William.directory      | available | $36.98    | —             | 74             | 31     | 7      | namecheap        |
-| flight.directory       | resell    | —         | —             | 80             | 30     | 6      | Porkbun LLC      |
-| Jim.directory          | premium   | $28       | $28           | 78             | 28     | 3      | namecheap        |
-| commonground.directory | available | $7.99     | —             | 74             | 28     | 13     | name.com         |
-| sites.directory        | resell    | —         | —             | 53             | 26     | 5      | Sav.com, LLC - 5 |
-| has.directory          | premium   | $28       | $28           | 60             | 26     | 3      | namecheap        |
-| backyard.directory     | available | $7.99     | —             | 80             | 27     | 9      | name.com         |
-| loans.directory        | resell    | —         | —             | 58             | 24     | 5      | GoDaddy.com, LLC |
-| computers.directory    | premium   | $28       | $28           | 68             | 19     | 9      | namecheap        |
-| destination.directory  | available | $7.99     | —             | 90             | 25     | 11     | name.com         |
-| offices.directory      | resell    | —         | —             | 60             | 16     | 7      | GoDaddy.com, LLC |
-| sucks.directory        | premium   | $28       | $28           | 48             | 11     | 5      | namecheap        |
-| Keith.directory        | available | $36.98    | —             | 66             | 25     | 5      | namecheap        |
-| hats.directory         | resell    | —         | —             | 65             | 15     | 4      | GoDaddy.com, LLC |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| William.directory     | available | $36.98    | —             | 74             | 31     | 7      | namecheap        |
+| home.directory        | resell    | —         | —             | 90             | 63     | 4      | Porkbun LLC      |
+| farmers.directory     | premium   | $28       | $28           | 54             | 59     | 7      | namecheap        |
+| backyard.directory    | available | $7.99     | —             | 80             | 27     | 9      | name.com         |
+| robots.directory      | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc      |
+| SanDiego.directory    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
+| destination.directory | available | $7.99     | —             | 90             | 25     | 11     | name.com         |
+| flight.directory      | resell    | —         | —             | 80             | 29     | 6      | Porkbun LLC      |
+| Jim.directory         | premium   | $28       | $28           | 78             | 28     | 3      | namecheap        |
+| reports.directory     | available | $7.99     | —             | 58             | 24     | 7      | name.com         |
+| cams.directory        | resell    | —         | —             | 52             | 29     | 4      | Sav.com, LLC - 2 |
+| has.directory         | premium   | $28       | $28           | 60             | 26     | 3      | namecheap        |
+| echoes.directory      | available | $7.99     | —             | 56             | 24     | 6      | name.com         |
+| sites.directory       | resell    | —         | —             | 53             | 26     | 5      | Sav.com, LLC - 5 |
+| bankers.directory     | premium   | $23.60    | $23.60        | 52             | 11     | 7      | namesilo         |
+| rekt.directory        | available | $7.99     | —             | 40             | 24     | 4      | name.com         |
+| loans.directory       | resell    | —         | —             | 58             | 24     | 5      | GoDaddy.com, LLC |
+| sucks.directory       | premium   | $28       | $28           | 48             | 11     | 5      | namecheap        |
+| holidays.directory    | available | $7.99     | —             | 78             | 23     | 8      | name.com         |
+| pros.directory        | resell    | —         | —             | 53             | 23     | 4      | IONOS SE         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,854 live domains                              |
+| 1,000-row public sample | 11,434 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
