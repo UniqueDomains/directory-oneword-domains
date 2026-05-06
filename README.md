@@ -1,10 +1,10 @@
-# Available .DIRECTORY One-Word Domains (11,436)
+# Available .DIRECTORY One-Word Domains (11,438)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C436%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C438%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .directory one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,436 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,438 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,436 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,438 domains · **Median ask:** $11.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/directory`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| William.directory     | available | $36.98    | —             | 74             | 31     | 7      | namecheap        |
-| home.directory        | resell    | —         | —             | 90             | 63     | 4      | Porkbun LLC      |
-| farmers.directory     | premium   | $28       | $28           | 54             | 59     | 7      | namecheap        |
-| backyard.directory    | available | $7.99     | —             | 80             | 27     | 9      | name.com         |
-| robots.directory      | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc      |
-| SanDiego.directory    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo         |
-| destination.directory | available | $7.99     | —             | 90             | 25     | 11     | name.com         |
-| flight.directory      | resell    | —         | —             | 80             | 29     | 6      | Porkbun LLC      |
-| Jim.directory         | premium   | $28       | $28           | 78             | 28     | 3      | namecheap        |
-| reports.directory     | available | $7.99     | —             | 58             | 24     | 7      | name.com         |
-| cams.directory        | resell    | —         | —             | 52             | 29     | 4      | Sav.com, LLC - 2 |
-| has.directory         | premium   | $28       | $28           | 60             | 26     | 3      | namecheap        |
-| echoes.directory      | available | $7.99     | —             | 56             | 24     | 6      | name.com         |
-| sites.directory       | resell    | —         | —             | 53             | 26     | 5      | Sav.com, LLC - 5 |
-| bankers.directory     | premium   | $23.60    | $23.60        | 52             | 11     | 7      | namesilo         |
-| rekt.directory        | available | $7.99     | —             | 40             | 24     | 4      | name.com         |
-| loans.directory       | resell    | —         | —             | 58             | 24     | 5      | GoDaddy.com, LLC |
-| sucks.directory       | premium   | $28       | $28           | 48             | 11     | 5      | namecheap        |
-| holidays.directory    | available | $7.99     | —             | 78             | 23     | 8      | name.com         |
-| pros.directory        | resell    | —         | —             | 53             | 23     | 4      | IONOS SE         |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Acup.directory     | available | $36.98    | —             | 80             | 5      | 5      | namecheap   |
+| barup.directory    | available | $7.99     | —             | 82             | 2      | 6      | name.com    |
+| forces.directory   | available | $7.99     | —             | 82             | 12     | 6      | name.com    |
+| getup.directory    | available | $7.99     | —             | 82             | 14     | 6      | name.com    |
+| Apples.directory   | available | $36.98    | —             | 90             | 16     | 6      | namecheap   |
+| useit.directory    | available | $7.99     | —             | 94             | 7      | 6      | name.com    |
+| edamame.directory  | available | $7.99     | —             | 80             | 9      | 7      | name.com    |
+| gearup.directory   | available | $7.99     | —             | 80             | 16     | 7      | name.com    |
+| playin.directory   | available | $7.99     | —             | 80             | 10     | 7      | name.com    |
+| toneup.directory   | available | $7.99     | —             | 80             | 5      | 7      | name.com    |
+| hangon.directory   | available | $7.99     | —             | 82             | 6      | 7      | name.com    |
+| makeit.directory   | available | $7.99     | —             | 82             | 22     | 7      | name.com    |
+| leaveon.directory  | available | $7.99     | —             | 80             | 1      | 8      | name.com    |
+| Snickers.directory | available | $36.98    | —             | 80             | 10     | 8      | namecheap   |
+| FabFour.directory  | available | $7.99     | —             | 82             | 3      | 8      | name.com    |
+| headout.directory  | available | $7.99     | —             | 82             | 6      | 8      | name.com    |
+| William.directory  | available | $36.98    | —             | 74             | 31     | 7      | namecheap   |
+| home.directory     | resell    | —         | —             | 90             | 63     | 4      | Porkbun LLC |
+| farmers.directory  | premium   | $28       | $28           | 54             | 59     | 7      | namecheap   |
+| backyard.directory | available | $7.99     | —             | 80             | 27     | 9      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,436 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,438 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of one-word .directory domains. The strongest names pair a clear, intuitive word with an extension that makes sense for listings, indexes, local guides, or structured collections. Examples like jewels.directory, finals.directory, and useit.directory show the range from category terms to broader brandable words. For founders, the main question is whether the word stays memorable and credible with .directory. For investors, the main question is whether the keyword has enough commercial intent to offset narrower resale demand. With a median ask of 11.21, price discipline may be less important than extension fit, spelling ease, and trademark risk.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fit: words that naturally suit listings or indexes
+- Check if the word still reads clearly with .directory
+- Expect narrower resale demand than mainstream extensions
+- Avoid terms with obvious trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
