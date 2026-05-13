@@ -897,6 +897,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 509d431c-448e-41c3-ab8c-602ba139e5f2,distinctiveness.directory,available,7.99,,72,1,15,name.com,,
 509e102d-4a4c-4382-8be8-8700ae1d07b6,pennies.directory,available,7.99,,56,6,7,name.com,,
 50a303b8-8f50-4a4d-9c7a-dfd024c7fd40,devours.directory,available,7.99,,40,2,7,name.com,,
+50a6581d-abb1-4f3c-98ca-17a926d4fdaa,publication.directory,available,7.99,,72,9,11,name.com,,
 50b65fd1-61e1-4ee1-9b2b-e966d3575338,waitup.directory,available,7.99,,63,2,7,name.com,,
 50d7a09d-e252-48b7-a923-ba9574df0ee8,criteria.directory,available,7.99,,88,10,8,name.com,,
 50daaf49-050f-4fc8-85f9-9a6b2a654f7f,setforth.directory,available,7.99,,72,4,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a4a1db3-db7a-48e7-826d-8765c54f18e6,twentyeight.directory,available,7.99,,65,8,12,name.com,,
 5a65bab2-57cc-4551-ae5a-269a8fb1e664,Acup.directory,available,36.98,,80,5,5,namecheap,,
 5a6bbe2b-f166-40c4-87c8-319a6567a64b,coffeepotful.directory,available,7.99,,72,1,13,name.com,,
-5a7b47bb-ea0b-4de7-89ce-13935c180493,travellers.directory,available,7.99,,53,11,10,name.com,,
