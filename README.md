@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .directory one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,447 domains · **Median ask:** $11.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/directory`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | Acup.directory     | available | $36.98    | —             | 80             | 5      | 5      | namecheap   |
 | barup.directory    | available | $7.99     | —             | 82             | 2      | 6      | name.com    |
 | forces.directory   | available | $7.99     | —             | 82             | 12     | 6      | name.com    |
-| getup.directory    | available | $7.99     | —             | 82             | 14     | 6      | name.com    |
+| getup.directory    | available | $7.99     | —             | 82             | 15     | 6      | name.com    |
 | Apples.directory   | available | $36.98    | —             | 90             | 16     | 6      | namecheap   |
 | useit.directory    | available | $7.99     | —             | 94             | 7      | 6      | name.com    |
 | edamame.directory  | available | $7.99     | —             | 80             | 9      | 7      | name.com    |
@@ -75,7 +75,7 @@ print(df.head())
 | playin.directory   | available | $7.99     | —             | 80             | 10     | 7      | name.com    |
 | toneup.directory   | available | $7.99     | —             | 80             | 5      | 7      | name.com    |
 | hangon.directory   | available | $7.99     | —             | 82             | 6      | 7      | name.com    |
-| makeit.directory   | available | $7.99     | —             | 82             | 22     | 7      | name.com    |
+| makeit.directory   | available | $7.99     | —             | 82             | 21     | 7      | name.com    |
 | leaveon.directory  | available | $7.99     | —             | 80             | 1      | 8      | name.com    |
 | Snickers.directory | available | $36.98    | —             | 80             | 10     | 8      | namecheap   |
 | FabFour.directory  | available | $7.99     | —             | 82             | 3      | 8      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
