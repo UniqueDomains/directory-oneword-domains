@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .directory one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,447 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,447 domains · **Median ask:** $11.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,447 domains · **Median ask:** $12.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/directory`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/directory`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DIRECTORY one-word do
 
 ### Files
 
-- `directory.csv` — public CSV extract (1,000 rows)
-- `directory.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `directory.csv`, public CSV extract (1,000 rows)
+- `directory.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Acup.directory     | available | $36.98    | —             | 80             | 5      | 5      | namecheap   |
-| barup.directory    | available | $7.99     | —             | 82             | 2      | 6      | name.com    |
-| forces.directory   | available | $7.99     | —             | 82             | 12     | 6      | name.com    |
-| getup.directory    | available | $7.99     | —             | 82             | 15     | 6      | name.com    |
-| Apples.directory   | available | $36.98    | —             | 90             | 16     | 6      | namecheap   |
-| useit.directory    | available | $7.99     | —             | 94             | 7      | 6      | name.com    |
-| edamame.directory  | available | $7.99     | —             | 80             | 9      | 7      | name.com    |
-| gearup.directory   | available | $7.99     | —             | 80             | 16     | 7      | name.com    |
-| playin.directory   | available | $7.99     | —             | 80             | 10     | 7      | name.com    |
-| toneup.directory   | available | $7.99     | —             | 80             | 5      | 7      | name.com    |
-| hangon.directory   | available | $7.99     | —             | 82             | 6      | 7      | name.com    |
-| makeit.directory   | available | $7.99     | —             | 82             | 21     | 7      | name.com    |
-| leaveon.directory  | available | $7.99     | —             | 80             | 1      | 8      | name.com    |
-| Snickers.directory | available | $36.98    | —             | 80             | 10     | 8      | namecheap   |
-| FabFour.directory  | available | $7.99     | —             | 82             | 3      | 8      | name.com    |
-| William.directory  | available | $36.98    | —             | 74             | 31     | 7      | namecheap   |
-| home.directory     | resell    | —         | —             | 90             | 63     | 4      | Porkbun LLC |
-| farmers.directory  | premium   | $28       | $28           | 54             | 59     | 7      | namecheap   |
-| backyard.directory | available | $7.99     | —             | 80             | 27     | 9      | name.com    |
-| robots.directory   | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bae.directory  | available | $7.99     | —             | high           | low    | 3      | name.com                                                  |
+| aaa.directory  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| aim.directory  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
+| day.directory  | available | $7.99     | —             | high           | low    | 3      | name.com                                                  |
+| Eid.directory  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| and.directory  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                                  |
+| xxi.directory  | available | $7.99     | $33.99        | medium         | low    | 3      | name.com                                                  |
+| law.directory  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| boo.directory  | premium   | $28       | $28           | high           | low    | 3      | namecheap                                                 |
+| aged.directory | available | $7.99     | $33.99        | high           | low    | 4      | name.com                                                  |
+| yes.directory  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| bye.directory  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
+| aunt.directory | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| fuel.directory | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| cap.directory  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
+| bead.directory | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| list.directory | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| con.directory  | premium   | $28       | $28           | high           | low    | 3      | namecheap                                                 |
+| brie.directory | available | $7.99     | —             | high           | low    | 4      | name.com                                                  |
+| root.directory | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .directory domains. The strongest names pair a clear, intuitive word with an extension that makes sense for listings, indexes, local guides, or structured collections. Examples like jewels.directory, finals.directory, and useit.directory show the range from category terms to broader brandable words. For founders, the main question is whether the word stays memorable and credible with .directory. For investors, the main question is whether the keyword has enough commercial intent to offset narrower resale demand. With a median ask of 11.21, price discipline may be less important than extension fit, spelling ease, and trademark risk.
+This list covers 11,447 one-word .directory domain names, from plain nouns like thing.directory to niche picks like dogwalking.directory and bonappetit.directory. Names span services, food, hobbies, and everyday actions, giving a wide base of short, memorable options built on a directory-style extension. With a median ask near $12, most entries are priced for quick testing rather than long negotiation. Evaluating this set means weighing word clarity, spelling ease, and renewal cost against how well each name fits a listing, guide, or curated directory concept.
 
-- Best fit: words that naturally suit listings or indexes
-- Check if the word still reads clearly with .directory
-- Expect narrower resale demand than mainstream extensions
-- Avoid terms with obvious trademark exposure
+- 11,447 one-word .directory domains, updated daily
+- Median ask near $12 — low-cost entry for testing brands
+- Covers everyday nouns, actions, and niche terms
+- Short, ownable names suited to guides and listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECTORY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
