@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+5816abeb-ed12-45c2-a85e-7c7b79dc3fa2,olivia.directory,available,4.5,22.69,high,low,6,dynadot,,,28/09/2026 07:43
 7178423b-415c-4e3f-8649-dd63dcde5eff,crawling.directory,available,4.34,21.94,medium,low,8,spaceship,,,28/09/2026 05:30
 bc4ee216-62cb-4ad0-8649-647e2815502a,aplitic.directory,available,4.98,36.98,medium,low,7,namecheap,,,06/08/2026 00:35
 744f9aa0-ea95-4125-83f8-f24e007e5695,skillfully.directory,available,4.98,36.98,medium,low,10,namecheap,,,16/09/2026 02:07
@@ -9,6 +10,7 @@ ea6d8d95-a497-4c22-bbbb-842558ab87c5,birthplace.directory,available,4.98,36.98,h
 339e096a-aae2-45c7-bc13-43d41f5288a2,flattering.directory,available,4.98,36.98,high,low,10,namecheap,,,18/08/2026 06:57
 35422b8a-f2d2-4b4b-89ec-d9ec4b99a1d1,dreamy.directory,available,4.98,36.98,high,low,6,namecheap,,,14/08/2026 18:48
 d8608c82-d284-4fc9-a253-093d9dc4ee29,inlaid.directory,available,4.98,36.98,medium,low,6,namecheap,,,22/08/2026 05:47
+410feca2-6aff-4342-b0db-7a21ab40e8d1,edu.directory,premium,800.5,,medium,medium,3,unstoppable,,,28/09/2026 23:17
 ee0a7d32-49c1-4be0-83d3-eca6f6a04b4d,substitute.directory,available,8.99,26.99,high,low,10,namesilo,,,22/09/2026 02:40
 4efe2d5f-31dc-4fa8-881f-7b289a95e2d6,acinonyx.directory,available,8.99,26.99,medium,low,8,namesilo,,,17/09/2026 01:31
 61ce62fb-b8ba-44e5-bffe-9eff5d7358bb,yemeni.directory,available,4.98,36.98,high,low,6,namecheap,,,13/09/2026 14:34
@@ -20,6 +22,7 @@ ef344304-ce37-460b-9484-ad092dd64245,aalto.directory,available,8.99,26.99,high,l
 26ca3a96-9f72-4983-9c1f-3bf2129e058d,rig.directory,premium,23.6,23.6,high,low,3,namesilo,,,20/09/2026 11:18
 e9c70ae6-4959-4f55-8855-d323af0fb533,gravelly.directory,available,4.98,36.98,medium,low,8,namecheap,,,20/08/2026 18:27
 343fad65-761a-40c7-8a2b-14ef5ed137d7,untrained.directory,available,4.98,36.98,medium,low,9,namecheap,,,12/09/2026 21:40
+1bcd0a77-7989-42eb-9516-1508142cdc47,symbols.directory,available,4.98,36.98,medium,low,7,namecheap,,,29/09/2026 04:46
 8fb57a9a-b96a-4f84-9937-bc0e666b3788,grouse.directory,available,8.99,26.99,high,low,6,namesilo,,,23/09/2026 00:24
 4417ffed-cdf1-4eb7-a72a-88e4a190d94c,cognate.directory,available,4.98,36.98,high,low,7,namecheap,,,10/08/2026 15:14
 210f3a80-fa6f-4234-8a66-49db661bba73,harmsworth.directory,available,4.98,36.98,medium,low,10,namecheap,,,18/09/2026 06:27
@@ -33,8 +36,11 @@ cfcf8e24-9c42-46d2-99d8-3f85375e29f3,strindberg.directory,available,8.99,26.99,m
 08de9e7e-7908-41f5-a42a-cd29f1d7fb53,repellent.directory,available,4.98,36.98,medium,low,9,namecheap,,,14/08/2026 10:39
 feb12fd5-7b88-4021-91a5-de0f9e5f8964,idle.directory,available,4.98,36.98,high,low,4,namecheap,,,08/08/2026 21:52
 13bdb8fb-3a34-44af-b89e-c7ef60176787,inform.directory,available,8.99,26.99,high,low,6,namesilo,,,16/09/2026 07:13
+5a27184a-e756-4f1c-920e-a933715f0c67,koh.directory,available,8.99,26.99,medium,low,3,namesilo,,,29/09/2026 04:20
 a4c40ad8-2cb7-4b6a-bd94-fe22d56f07a4,william.directory,available,8.99,26.99,high,low,7,namesilo,,,17/09/2026 13:23
+56ee0f2a-b71e-43f0-a326-697a41585bbd,winters.directory,available,8.5,,high,low,7,unstoppable,,,28/09/2026 22:16
 550bc5ad-301d-43e2-9f61-6c08fa9cc001,huffy.directory,available,4.98,36.98,medium,low,5,namecheap,,,21/08/2026 14:40
+99722417-0508-46e0-a93a-bc594ac06872,crews.directory,available,8.5,,medium,low,5,unstoppable,,,28/09/2026 16:47
 041492fd-f464-437a-afbf-335c4c5ad972,nonporous.directory,available,4.98,36.98,medium,low,9,namecheap,,,03/09/2026 20:18
 6ace4115-3a05-4ce9-8e40-ea45697471a2,aperitif.directory,available,8.99,26.99,high,low,8,namesilo,,,19/09/2026 16:32
 34d3a2a7-a6b3-4638-9513-1d14a2983290,wintertime.directory,available,7.99,,high,low,11,name.com,,,
@@ -44,7 +50,7 @@ b7542c3f-c14e-4472-b141-5253170f6f9f,guthrie.directory,available,8.99,26.99,high
 2bf05253-4abf-487d-992a-119f80606dff,crosby.directory,available,8.99,26.99,high,low,6,namesilo,,,23/09/2026 17:15
 0a363aa1-e60e-48c9-bda6-11d75b028fa8,unkindly.directory,available,4.98,36.98,medium,low,8,namecheap,,,12/09/2026 14:15
 85a8c78c-5425-437a-9217-7b3c93035dfc,cloistered.directory,available,4.98,36.98,medium,low,10,namecheap,,,12/08/2026 11:48
-ecc60476-cabd-460b-98ee-3add29ab9215,hook.directory,available,7.99,,high,low,4,name.com,,,
+ecc60476-cabd-460b-98ee-3add29ab9215,hook.directory,available,4.34,21.94,high,low,4,spaceship,,,28/09/2026 18:24
 6df2d71a-a526-4bad-9ea0-f920f40a84b8,separated.directory,available,8.99,26.99,medium,low,9,namesilo,,,19/09/2026 04:08
 bc60df58-0a43-437f-918a-cd872b1f2cb9,heavily.directory,available,4.98,36.98,medium,low,7,namecheap,,,21/08/2026 05:28
 b924f9bd-adba-4609-9404-7bfd23a86dfe,toller.directory,available,8.99,26.99,medium,low,6,namesilo,,,23/09/2026 05:41
@@ -55,13 +61,14 @@ d98599be-e064-40b3-94c8-615cdfc10ad4,semifinal.directory,available,4.98,36.98,hi
 62c2b64e-2747-41eb-a02a-58b2f6c1b5f4,gave.directory,available,7.99,,medium,low,4,name.com,,,
 763d13b5-e5a1-4b28-8885-376652da9a80,ade.directory,available,4.98,36.98,high,low,3,namecheap,,,17/09/2026 07:12
 08eec950-9f88-45d8-bf40-1632b1576d37,nobility.directory,available,8.99,26.99,high,low,8,namesilo,,,20/09/2026 05:50
+3ad95aa5-d69e-4544-b73f-be1d650c493e,bonded.directory,available,8.99,26.99,medium,low,6,namesilo,,,29/09/2026 05:02
 1c7ec217-1f60-41dc-95be-5bdf9200e9f1,malone.directory,available,4.98,36.98,high,low,6,namecheap,,,25/09/2026 05:13
 8bd5cbf5-4417-430e-87e7-8caf4aabd3d0,rhapsodic.directory,available,4.98,36.98,medium,low,9,namecheap,,,14/08/2026 23:52
-39210eac-8042-48f8-8363-0b550450c25f,varied.directory,available,7.99,,high,low,6,name.com,,,
+39210eac-8042-48f8-8363-0b550450c25f,varied.directory,available,4.34,21.94,medium,low,6,spaceship,,,28/09/2026 10:09
 7725c119-c437-47bd-9a12-2ec3a989435b,armorer.directory,available,8.99,26.99,medium,low,7,namesilo,,,20/09/2026 07:29
 802e1ecc-4ace-43f5-aebd-0a6ad320f01b,amen.directory,available,4.98,36.98,high,low,4,namecheap,,,18/09/2026 18:25
 95ef2779-f3dc-47da-ab35-7dc92009d876,shriek.directory,available,4.98,36.98,medium,low,6,namecheap,,,09/09/2026 23:53
-2acc8d8c-b12a-4d0a-b13e-4f2a45b95341,yawn.directory,available,7.99,,high,low,4,name.com,,,
+2acc8d8c-b12a-4d0a-b13e-4f2a45b95341,yawn.directory,available,4.34,21.94,medium,low,4,spaceship,,,28/09/2026 11:12
 df8443d0-7945-43de-83ac-0e8cbf32f36b,arity.directory,available,8.99,26.99,medium,low,5,namesilo,,,20/09/2026 06:02
 7506f868-cd84-4715-b6fb-ff7bc827bb7b,narrowly.directory,available,4.98,36.98,medium,low,8,namecheap,,,15/09/2026 16:08
 89fd8764-9dcc-4c75-8997-39d02d5c6b6a,exergonic.directory,available,4.98,36.98,medium,low,9,namecheap,,,17/08/2026 17:06
@@ -83,6 +90,7 @@ dd743e9e-78ce-4542-83e0-f1bc127815f1,gregorian.directory,available,4.98,36.98,hi
 865d283a-3755-47a4-8fa8-b0c3db680e8d,lund.directory,available,8.99,26.99,high,low,4,namesilo,,,25/09/2026 09:11
 640020e1-b8a0-4e3d-b225-eb3cbc221435,anhedonia.directory,available,8.99,26.99,medium,low,9,namesilo,,,19/09/2026 07:46
 c7582d11-9bf0-4540-8339-58de72e60279,latticed.directory,available,4.98,36.98,medium,low,8,namecheap,,,22/08/2026 08:06
+29c15b7f-260f-4d1a-9187-457eb2e8f7a2,lin.directory,available,4.34,21.94,high,low,3,spaceship,,,28/09/2026 10:15
 ad99e162-c4fc-4823-b9c1-862bd5d3b8a0,greased.directory,available,4.98,36.98,medium,low,7,namecheap,,,20/08/2026 19:33
 12a0bb0d-3ea6-41fa-8fb4-87811f19ad04,tersely.directory,available,8.99,26.99,medium,low,7,namesilo,,,16/09/2026 08:13
 ab347e34-d745-4500-88d7-0af89267a41e,stinky.directory,available,4.98,36.98,high,low,6,namecheap,,,13/08/2026 05:18
@@ -92,6 +100,8 @@ e79752bb-e0d2-421f-b740-a612cf798377,sousaphone.directory,available,8.99,26.99,m
 804920b5-dcb2-4145-8335-8f635c30c2f9,filial.directory,available,4.98,36.98,medium,low,6,namecheap,,,18/08/2026 04:17
 d9b3219e-c81f-47cd-b48b-b5402bbf1de7,arulo.directory,available,4.98,36.98,medium,low,5,namecheap,,,20/09/2026 12:11
 19991a64-c187-4056-a048-59400a6bc0d4,moistly.directory,available,4.98,36.98,low,low,7,namecheap,,,14/09/2026 10:31
+52da13ea-0a87-48bd-a223-3eaff2819a6d,aston.directory,available,8.99,26.99,high,low,5,namesilo,,,28/09/2026 07:29
+40dccc18-a3c0-40eb-8315-8e6e273090e8,bradbury.directory,available,4.34,21.94,high,low,8,spaceship,,,28/09/2026 13:35
 09169067-d349-4fa0-8c2f-42997fba5f42,glamorous.directory,available,4.98,36.98,high,low,9,namecheap,,,19/08/2026 00:15
 a721c6de-362e-44fd-8aa2-fcc31518db0d,geological.directory,available,4.98,36.98,high,low,10,namecheap,,,18/08/2026 22:28
 81f73bcc-4959-43ad-8c4d-23ff738d925b,intimately.directory,available,4.98,36.98,medium,low,10,namecheap,,,15/09/2026 09:03
@@ -140,12 +150,15 @@ bd4c6cc6-3ed4-496e-a634-f7bbd6d53106,tunnel.directory,available,8.99,26.99,high,
 9b09ceeb-7c3b-477c-9cf2-151a3be4e77e,bodily.directory,available,4.98,36.98,medium,low,6,namecheap,,,10/08/2026 16:52
 22577e0e-e0a0-42e1-b4d9-2dab04d64b27,minimum.directory,available,4.98,36.98,high,low,7,namecheap,,,25/09/2026 20:24
 6cd88f6d-563e-44de-9475-1d33ebe2c491,parker.directory,available,4.98,36.98,high,low,6,namecheap,,,23/09/2026 20:21
+7111a5f5-f5b9-4a26-adcb-8cbf0bfa63b2,judas.directory,available,4.98,36.98,medium,low,5,namecheap,,,28/09/2026 19:35
 9ea9bd82-17b5-4f00-b4ee-c388562ed49a,javan.directory,available,4.98,36.98,high,low,5,namecheap,,,22/08/2026 12:30
 7d70ae03-f6de-4f39-973c-301a45777af0,puppet.directory,available,7.99,47.99,high,low,6,godaddy,,,28/09/2026 02:20
 07b0371e-888d-4533-86f3-db3f23132cd8,nightmare.directory,available,7.99,,high,low,9,name.com,,,
 0acedd96-ca6d-48e4-978a-75c3800f4a26,perpetual.directory,available,4.98,36.98,high,low,9,namecheap,,,
+3a9a0cda-0721-49c6-bac3-5897fdcd1631,zane.directory,available,21.2,21.2,high,low,4,cloudflare,,,29/09/2026 04:01
 a28eb216-9a82-4a20-827a-f1628001a80d,armrest.directory,available,4.98,36.98,medium,low,7,namecheap,,,20/09/2026 07:41
 1c963f40-06fe-49f2-9ac8-35e497375384,stradivari.directory,available,4.98,36.98,medium,low,10,namecheap,,,19/09/2026 15:41
+8b892787-1243-4d90-938b-93368b28e8d6,correspondent.directory,available,8.5,,medium,low,13,unstoppable,,,29/09/2026 03:16
 ac173200-7bcb-4da7-8c1f-01e31d988d54,patriotic.directory,available,8.99,26.99,high,low,9,namesilo,,,27/09/2026 03:06
 b2a90d29-c67d-41c8-b91e-dc9619ea7a69,schematic.directory,available,4.98,36.98,high,low,9,namecheap,,,09/09/2026 23:02
 dfd13095-f6a7-44c4-ab5d-10f17da6d2d6,valueless.directory,available,4.98,36.98,medium,low,9,namecheap,,,13/09/2026 01:01
@@ -158,14 +171,14 @@ c0a98bb4-e11f-4367-bf23-061b08852719,multiplication.directory,available,7.99,,me
 245419e9-815a-437a-b423-fcfd3e4f6322,accidentally.directory,available,8.99,26.99,medium,low,12,namesilo,,,28/09/2026 03:20
 178ee1c2-6f4f-4e3f-8b25-530082827049,joke.directory,available,4.98,36.98,high,low,4,namecheap,,,22/09/2026 06:20
 f4466f25-374b-4e28-8e21-d20142adf28d,acetonic.directory,available,4.98,36.98,medium,low,8,namecheap,,,
-040d388f-25bd-4218-836c-e997de19c0fe,commerce.directory,resell,,,high,low,8,Edomains LLC,10/05/2020 08:48,10/05/2027 08:48,26/09/2026 05:08
+040d388f-25bd-4218-836c-e997de19c0fe,commerce.directory,resell,,,high,low,8,Edomains LLC,10/05/2020 08:48,10/05/2027 08:48,28/09/2026 15:11
 2eb21f8e-1d52-4079-adf6-fc31c37ff853,barth.directory,available,8.99,26.99,medium,low,5,namesilo,,,22/09/2026 09:03
 3da21c93-9cf4-47f8-a2b8-071a960a9e7c,capacious.directory,available,4.98,36.98,medium,low,9,namecheap,,,11/08/2026 17:47
-f7a434df-2617-4ed2-a5de-8e4db082c95a,meeting.directory,available,4.98,36.98,high,low,7,namecheap,,,24/08/2026 20:45
+f7a434df-2617-4ed2-a5de-8e4db082c95a,meeting.directory,available,4.98,36.98,high,low,7,namecheap,,,28/09/2026 07:59
 a6ed7441-dcfa-4c26-adbe-6acfece41e11,stands.directory,available,7.99,,medium,low,6,name.com,,,
 9353e385-f8e6-49f1-8a36-c4a05419722f,corvine.directory,available,4.98,36.98,medium,low,7,namecheap,,,13/08/2026 02:37
 644255f5-09ac-4bc7-9e93-6ff9f28827bf,nonviolent.directory,available,4.98,36.98,high,low,10,namecheap,,,03/09/2026 21:04
-2e1217cb-983f-4dbc-8bb0-e7045491af21,bridges.directory,available,7.99,,high,low,7,name.com,,,
+2e1217cb-983f-4dbc-8bb0-e7045491af21,bridges.directory,available,4.34,21.94,high,low,7,spaceship,,,29/09/2026 04:06
 6b7ac30c-e271-4401-b1f7-8a26a64f5e01,jiffy.directory,available,4.98,36.98,high,low,5,namecheap,,,22/08/2026 07:30
 3af846e0-ec46-40c9-8f3d-c5b81cc0cf41,sultrily.directory,available,4.98,36.98,medium,low,8,namecheap,,,16/09/2026 01:00
 29c767d0-4968-41af-a658-f7d0d93a54aa,snowed.directory,available,8.99,26.99,medium,low,6,namesilo,,,20/09/2026 16:23
@@ -179,7 +192,7 @@ edca6185-f1a0-4296-b43b-bd5a916260b2,dogsit.directory,available,7.99,,high,low,6
 64e6a779-f3b0-4749-9f02-fd0a729fb125,newly.directory,available,4.98,36.98,high,low,5,namecheap,,,18/08/2026 15:17
 0ecc2155-69aa-472e-a3c8-af3d45fe2239,apios.directory,available,8.99,26.99,medium,low,5,namesilo,,,19/09/2026 17:25
 128c5508-8dda-4d0c-b0a6-a714f6f26240,illume.directory,available,4.98,36.98,high,low,6,namecheap,,,23/08/2026 02:41
-08e553eb-e2c0-4dac-81cf-f68586424ff7,cannot.directory,available,7.99,,high,low,6,name.com,,,
+08e553eb-e2c0-4dac-81cf-f68586424ff7,cannot.directory,available,8.99,26.99,low,low,6,namesilo,,,28/09/2026 16:55
 3cf67269-d0ad-4050-ad58-1bf320f80251,vial.directory,available,8.99,26.99,high,low,4,namesilo,,,18/09/2026 23:48
 5d4e8aec-fbfd-4995-9d79-bfdebe484de3,ards.directory,available,8.99,26.99,medium,low,4,namesilo,,,17/09/2026 10:14
 a06278d0-f396-40d8-8037-d0182c3a15bb,eliza.directory,available,7.99,,high,low,5,name.com,,,
@@ -191,10 +204,11 @@ c1bdb363-7a53-4758-a057-4d4728cfa826,divide.directory,available,4.34,21.94,high,
 70e4e226-14dd-48c9-8110-b2c0f7aee698,absorbing.directory,available,4.98,36.98,high,low,9,namecheap,,,21/09/2026 15:02
 ff5f158f-0cbb-4876-8575-907c2ee7ce30,speciality.directory,available,4.98,36.98,high,low,10,namecheap,,,18/08/2026 12:32
 c2ee1008-7dea-432b-855b-9088c5a376e2,dread.directory,available,4.98,36.98,high,low,5,namecheap,,,14/08/2026 18:38
-e7e74cd4-9b91-4a1d-954b-5bac10e62b35,catch.directory,available,7.99,,high,low,5,name.com,,,
+e7e74cd4-9b91-4a1d-954b-5bac10e62b35,catch.directory,available,8.99,26.99,high,low,5,namesilo,,,28/09/2026 22:15
 34714581-c797-492d-832a-d92af5e21966,socks.directory,available,8.99,26.99,high,low,5,namesilo,,,27/09/2026 08:18
 2a247f9b-73b7-4ca4-9c9a-56350be8d727,adversity.directory,available,4.98,36.98,high,low,9,namecheap,,,17/09/2026 10:54
 fd8a673d-f370-4673-9502-fe31e9132154,cheeses.directory,available,7.99,,high,low,7,name.com,,,
+2b550244-454a-4ae9-8508-94cb7ad3ceb9,settling.directory,available,4.98,36.98,medium,low,8,namecheap,,,28/09/2026 20:24
 a3ab2f07-9649-4045-94fa-2c0b00e01952,quitting.directory,available,8.99,26.99,medium,low,8,namesilo,,,17/09/2026 01:45
 bac4be2b-7008-4efc-8088-1b994182ba95,umpire.directory,available,8.99,26.99,medium,low,6,namesilo,,,20/09/2026 00:47
 7376c473-742d-4513-9009-9f61b49b990f,akee.directory,available,8.99,26.99,medium,low,4,namesilo,,,17/09/2026 01:56
@@ -218,6 +232,7 @@ c9bddb85-7720-48a1-9002-abaa57c35705,misgiving.directory,available,8.99,26.99,me
 409dd672-c916-4698-a964-4175fcc77a56,taciturn.directory,available,4.98,36.98,medium,low,8,namecheap,,,11/09/2026 06:58
 4c36759d-9204-4520-9a00-c345c8d9a2d7,assumed.directory,available,4.98,36.98,medium,low,7,namecheap,,,07/08/2026 07:45
 a76e8d16-5128-48a2-80a6-0857a700138d,adhere.directory,available,8.99,26.99,high,low,6,namesilo,,,23/09/2026 17:04
+61663730-2889-4361-b3ba-74f7a1e4ae14,commandery.directory,available,8.5,,medium,low,10,unstoppable,,,29/09/2026 00:27
 19f21a3e-4a90-4b36-be3a-f960b61c24b9,tracing.directory,available,7.99,,high,low,7,name.com,,,
 67535f9d-0b37-47b9-a5e4-b5b68f725327,wig.directory,premium,23.6,23.6,high,low,3,namesilo,,,
 5beb63ec-be4e-4c68-8ddd-d1b90860ba3e,bruxelles.directory,available,8.99,26.99,high,low,9,namesilo,,,23/09/2026 04:57
@@ -225,6 +240,7 @@ a76e8d16-5128-48a2-80a6-0857a700138d,adhere.directory,available,8.99,26.99,high,
 d1561027-f635-4e01-bc21-5f5fb9433908,barnyard.directory,available,4.98,36.98,high,low,8,namecheap,,,22/09/2026 06:58
 478ef325-64ea-49c8-b06e-6ba0113ac8fe,caucasian.directory,available,4.98,36.98,high,low,9,namecheap,,,11/08/2026 22:16
 683a8004-5c99-4e90-9496-62ce02d963d3,tomboys.directory,available,8.99,26.99,low,low,7,namesilo,,,20/09/2026 23:15
+917de7e3-af92-42f8-9c33-48773cf9c168,translated.directory,available,8.5,,medium,low,10,unstoppable,,,29/09/2026 04:42
 7bf2df76-d88c-4321-b51e-49ad8c5790a4,armiger.directory,available,8.99,26.99,medium,low,7,namesilo,,,20/09/2026 06:59
 0209cba5-7250-4551-a764-b107b7722ccd,shirts.directory,available,8.99,26.99,medium,low,6,namesilo,,,27/09/2026 11:13
 9c6decbe-a5a1-41cf-81cf-0ad2fe0e86cb,fortuitous.directory,available,4.98,36.98,high,low,10,namecheap,,,18/08/2026 12:43
@@ -233,7 +249,7 @@ d1561027-f635-4e01-bc21-5f5fb9433908,barnyard.directory,available,4.98,36.98,hig
 9700cdd4-eaf2-4336-a92c-635d6af5743a,norfolk.directory,premium,118.8,118.8,high,low,7,namesilo,,,
 f2ad5683-9e36-4478-b3d5-ba53279ba848,indirect.directory,available,4.98,36.98,high,low,8,namecheap,,,12/08/2026 16:43
 abe120c4-61e5-4682-a057-3bac7993d0c0,foolhardy.directory,available,4.98,36.98,medium,low,9,namecheap,,,18/08/2026 10:28
-7ca42b89-ccff-4eda-bad0-191034c088c0,urban.directory,premium,854,854,high,low,5,namesilo,,,
+7ca42b89-ccff-4eda-bad0-191034c088c0,urban.directory,premium,828.2,828.2,high,low,5,spaceship,,,28/09/2026 10:00
 acab4e09-02a7-4d6f-ac86-bbb769ce88b0,apace.directory,available,4.98,36.98,medium,low,5,namecheap,,,13/09/2026 20:22
 f26813c0-4b32-41c2-889a-10917c937707,sweetie.directory,available,4.98,36.98,high,low,7,namecheap,,,10/09/2026 19:34
 c7ad263f-05df-4ec8-9320-ddfcf70c0106,fellows.directory,available,8.99,26.99,medium,low,7,namesilo,,,25/09/2026 13:03
@@ -242,6 +258,7 @@ a5267e6d-739b-4746-9c01-21384038ad9a,silvervine.directory,available,4.98,36.98,l
 27e68ff6-1b72-4a59-80e4-51d6a58b3a90,maintain.directory,available,7.99,,high,low,8,name.com,,,
 da077d32-847f-4931-980f-6e5d3e6bd7ab,tightly.directory,available,7.99,33.99,medium,low,7,name.com,,,16/09/2026 09:06
 abe993b6-1ee7-44ab-ab87-e3d184754043,autonomy.directory,available,8.99,26.99,high,low,8,namesilo,,,21/09/2026 07:27
+39f2ccd4-a683-411a-b4af-93bfaea77685,wrestle.directory,available,4.98,36.98,high,low,7,namecheap,,,29/09/2026 01:07
 e8e380d1-a741-4b78-ae0d-4d3cd6cf6cd7,kurdish.directory,available,4.98,36.98,high,low,7,namecheap,,,22/08/2026 17:04
 19fb387e-12d4-46e4-b696-52243e170f41,argonne.directory,available,8.99,26.99,medium,low,7,namesilo,,,20/09/2026 04:36
 bcfcce14-8d2d-4633-a917-3aae14e42925,violent.directory,available,4.98,36.98,high,low,7,namecheap,,,11/09/2026 09:46
@@ -254,9 +271,11 @@ fc6a0d53-6e1a-4be1-8694-17d98a2b0dc5,athens.directory,premium,128.7,128.7,high,l
 46790f75-53f4-473e-b6ed-25cc542eb0eb,regularly.directory,available,4.98,36.98,medium,low,9,namecheap,,,15/09/2026 17:25
 6b94a7ef-f00b-4563-bfb3-97aa7f24c0a7,abreaction.directory,available,8.99,26.99,medium,low,10,namesilo,,,16/09/2026 17:06
 73e92e0f-afc8-4edc-983b-fe0d43c54e78,carbonyl.directory,available,4.98,36.98,medium,low,8,namecheap,,,11/08/2026 18:41
+be13745b-914b-4d22-8075-9ce5007ed6f9,mates.directory,available,4.5,22.69,high,low,5,dynadot,,,28/09/2026 10:21
 21f18af6-fa99-442d-acbd-f948a4ba829b,spareribs.directory,available,4.98,36.98,high,low,9,namecheap,,,22/09/2026 04:41
 7276e577-e4f7-4243-a3fa-fe594e9998ac,walker.directory,available,4.98,36.98,high,low,6,namecheap,,,08/09/2026 12:36
 5a3289fa-92f8-4e15-bb88-715d7c3487ae,abutilon.directory,available,4.98,36.98,medium,low,8,namecheap,,,16/09/2026 19:21
+99619047-1596-45e0-bf25-a0e7eeacf120,exceptional.directory,available,8.99,26.99,high,low,11,namesilo,,,28/09/2026 11:15
 51200777-73c0-44ed-9cd3-eb28242e7fe6,asin.directory,available,8.99,26.99,high,low,4,namesilo,,,20/09/2026 14:15
 a317b5ff-9bc3-4e06-b584-9ba239f4b8f7,motivation.directory,available,8.99,26.99,high,low,10,namesilo,,,25/09/2026 21:49
 a33e9eef-4214-40b8-bb6d-92b0134180d3,revenge.directory,available,8.99,26.99,high,low,7,namesilo,,,25/09/2026 10:18
@@ -273,10 +292,12 @@ a96a836c-379e-425f-8a79-4f382145d72c,melanesian.directory,available,4.98,36.98,m
 e3d5e84c-eb97-41d6-89b1-3e6f9d2ba6f6,thinly.directory,available,4.98,36.98,medium,low,6,namecheap,,,11/09/2026 13:26
 657c3187-2aca-48fa-9321-f9215d9bbe86,subatomic.directory,available,4.98,36.98,medium,low,9,namecheap,,,10/09/2026 23:38
 9aa191be-778e-4032-a4e2-81e11c93c771,acetum.directory,available,4.98,36.98,medium,low,6,namecheap,,,17/09/2026 00:18
+cd246151-e52f-4aad-8cac-d34cd02b9e0f,bites.directory,available,21.2,21.2,medium,low,5,cloudflare,,,28/09/2026 13:24
 af8a3e19-5ffd-4c6d-9fab-a5c0ce287304,drawback.directory,available,8.99,26.99,medium,low,8,namesilo,,,24/09/2026 23:54
 341bb9c1-03cc-4f04-9e0c-0bbc47d89f23,touches.directory,available,8.99,26.99,medium,low,7,namesilo,,,28/09/2026 04:39
 04fbb83f-73bf-4667-8b3d-36ecfa80fd83,bedamn.directory,available,7.99,33.99,low,low,6,name.com,,,13/08/2026 16:21
 ac05e4a1-04f4-4902-a09a-6ba746aa1f25,moony.directory,available,4.98,36.98,medium,low,5,namecheap,,,14/08/2026 18:50
+55ff4c05-9d58-456e-9390-65b4245725d5,heavyweight.directory,available,8.5,,high,low,11,unstoppable,,,29/09/2026 03:05
 7ca8cb95-37c2-4844-808c-35820fe65ee1,insured.directory,resell,,,high,low,7,"GoDaddy.com, LLC",05/02/2026 01:18,05/02/2027 01:18,26/09/2026 06:54
 fc111851-b48f-4f94-9502-742e1b1f41cd,over.directory,available,8.99,26.99,high,low,4,namesilo,,,22/09/2026 00:56
 8c895d79-d833-442a-b3e5-9a47561b3c3c,zag.directory,premium,23.6,23.6,high,low,3,namesilo,,,13/09/2026 15:17
@@ -287,6 +308,7 @@ c65cf4a4-fddb-4f2b-a60e-d4d054ab88ce,expires.directory,available,8.99,26.99,medi
 d3a4ef3c-551e-4fb2-8f97-596cff43a441,kisses.directory,available,4.34,21.94,medium,low,6,spaceship,,,28/09/2026 04:53
 2cf67914-879a-42f1-8f88-ff91b9992799,shrimp.directory,available,7.99,,high,low,6,name.com,,,
 f998abaf-99e4-4471-9141-91e1c2efd359,feasible.directory,available,4.98,36.98,high,low,8,namecheap,,,17/08/2026 16:48
+ca30e3f7-e22d-41a5-af2f-e898e728f7cf,nod.directory,premium,20.5,,high,low,3,unstoppable,,,28/09/2026 10:34
 cb6522ec-20c4-4897-9be6-b04ab7b0d200,incorrect.directory,available,8.99,26.99,high,low,9,namesilo,,,25/09/2026 08:08
 b9756496-6ef0-4f9b-a964-b76816b28545,unkeyed.directory,available,4.98,36.98,low,low,7,namecheap,,,07/08/2026 13:50
 70042d50-4af0-4d34-87b1-2dc881b777a9,suits.directory,available,8.99,26.99,high,low,5,namesilo,,,18/09/2026 12:41
@@ -300,6 +322,7 @@ af3df9cd-c48f-4400-9bd2-b859c3e863ed,palmate.directory,available,4.98,36.98,medi
 6601de35-f79b-440d-a9a8-501800ad15f8,makings.directory,available,8.99,26.99,high,low,7,namesilo,,,20/09/2026 04:27
 27bc55ce-6c5f-4d46-b37b-2eebc4b511cf,bessemer.directory,available,8.99,26.99,high,low,8,namesilo,,,23/09/2026 10:28
 974e32c6-3ed0-4af0-ba32-5ae3252dc56d,motorcar.directory,available,8.99,26.99,high,low,8,namesilo,,,21/09/2026 05:29
+cd2f0f48-3e7b-42c0-b7a1-de2052d4b357,announcing.directory,available,4.34,21.94,medium,low,10,spaceship,,,29/09/2026 05:34
 588c2ad9-4a19-4f49-900c-fa5e2b7106a1,fred.directory,available,8.99,26.99,high,low,4,namesilo,,,25/09/2026 11:53
 ea85ddbd-0096-444d-85c7-31a20244a915,terms.directory,available,7.99,,high,low,5,name.com,,,
 6b67cc5c-1500-4889-9eea-bd6ec31d7c78,row.directory,premium,23.6,23.6,high,low,3,namesilo,,,25/09/2026 05:05
@@ -314,6 +337,9 @@ f46eefa5-f46b-4986-8576-5bdfb0c52434,pile.directory,available,4.98,36.98,high,lo
 01a266fe-5f39-4e1c-b7df-2784109c62af,accusative.directory,available,4.98,36.98,high,low,10,namecheap,,,
 c815cd93-eea3-46ab-ae8a-25699a39cbc3,lovely.directory,available,4.98,36.98,high,low,6,namecheap,,,21/09/2026 19:31
 7bbed16c-cdd0-45ea-9226-72b2ca84d6c5,sensually.directory,available,4.98,36.98,medium,low,9,namecheap,,,16/09/2026 00:58
+b1c839ca-d4b2-40f4-aa62-de1b62b0fab4,nikita.directory,available,8.5,,high,low,6,unstoppable,,,29/09/2026 04:05
+57727010-695d-4823-9459-e778f7f3bf5e,farr.directory,available,8.99,26.99,medium,low,4,namesilo,,,28/09/2026 22:15
+b0582335-05f7-4d3a-923a-ee5384e8991a,shades.directory,available,8.5,,high,low,6,unstoppable,,,28/09/2026 18:53
 5073b76d-30f8-4bfd-86f6-d73beb2a76b6,camper.directory,available,,,high,high,6,,,,
 01a7c277-8d21-4849-873e-0a1ec92e1d83,talismanic.directory,available,4.98,36.98,medium,low,10,namecheap,,,11/09/2026 07:30
 d3f74ee5-a96a-4766-99be-9c1f0d745d65,sublime.directory,available,4.98,36.98,high,low,7,namecheap,,,17/08/2026 15:39
@@ -331,9 +357,10 @@ c7a9f3dd-e268-4edf-8925-b05bc21455cc,lambent.directory,available,4.98,36.98,medi
 05cdaddd-c6b4-4e37-9e3f-35e9d76888e2,struggle.directory,available,7.99,,high,low,8,name.com,,,
 4f3b1f42-1338-4f93-ad61-93698ef1d150,diabetic.directory,available,8.99,26.99,high,low,8,namesilo,,,25/09/2026 04:35
 f7d13f30-ae8a-4d64-bd8e-82fbaf051452,victims.directory,available,7.99,33.99,medium,low,7,name.com,,,18/09/2026 21:07
+8b19b7e8-4d33-45b5-896a-8e7644a537eb,reggie.directory,available,4.98,36.98,high,low,6,namecheap,,,28/09/2026 07:45
 c3a42ac0-8275-4485-a109-d440c7a5ab31,ultra.directory,available,8.99,26.99,high,medium,5,namesilo,,,25/09/2026 15:02
 5309686f-6fe2-4fd8-b586-62e3860d7752,forgotten.directory,available,4.98,36.98,high,low,9,namecheap,,,14/08/2026 12:18
-3ad8e70e-4a18-4712-abf5-6bbc3ecdb198,bryan.directory,available,7.99,,high,low,5,name.com,,,
+3ad8e70e-4a18-4712-abf5-6bbc3ecdb198,bryan.directory,available,21.2,21.2,high,low,5,cloudflare,,,29/09/2026 03:53
 83a57040-62f1-413c-ad55-b0dfb433d7a3,inventive.directory,available,8.99,26.99,high,low,9,namesilo,,,28/09/2026 05:59
 061e5cc9-8591-4bd7-b868-5fdc79c06667,thankless.directory,available,4.98,36.98,medium,low,9,namecheap,,,11/09/2026 12:28
 94423274-3b4c-4ee4-bf67-6be52d16a697,cantonment.directory,available,4.98,36.98,medium,low,10,namecheap,,,11/08/2026 15:52
@@ -347,15 +374,19 @@ f50e6536-99a8-4911-9944-294b4ec80a86,jutland.directory,available,8.99,26.99,medi
 050023ea-8135-4605-a137-b1fea328573c,signally.directory,available,4.98,36.98,medium,low,8,namecheap,,,16/09/2026 01:49
 7da5afac-77f4-49a5-855b-7a342341aa67,accursed.directory,available,4.98,36.98,medium,low,8,namecheap,,,
 4edcd0f4-54c2-4593-939d-eb90b2bcf93a,sinclair.directory,available,7.99,33.99,high,low,8,name.com,,,25/09/2026 04:16
+48bfe9c0-abb3-4a24-b2bf-628fd49b4f2d,awaiting.directory,available,4.5,22.69,low,low,8,dynadot,,,28/09/2026 17:49
 3153bfca-9dd1-4c0b-b5a9-a1264060508c,cognisant.directory,available,4.98,36.98,medium,low,9,namecheap,,,08/08/2026 00:18
 576a2026-0512-4b93-913f-347ba9a4675b,squishy.directory,available,4.98,36.98,medium,low,7,namecheap,,,10/09/2026 16:26
+20cfd526-8f55-414b-b6f0-1290a6d149ab,parasite.directory,available,4.63,22.14,medium,low,8,porkbun,,,29/09/2026 01:47
 ae40c2eb-a669-4725-823e-aa4da1a4bd85,moon.directory,resell,,,high,medium,4,"GoDaddy.com, LLC",08/01/2021 04:33,08/01/2027 04:33,26/09/2026 07:38
 5fa39019-a39f-4f34-92ff-7f1a82240101,favour.directory,available,8.99,26.99,high,low,6,namesilo,,,25/09/2026 05:51
+90da09a9-d227-444f-adff-78b7f4a62be1,invade.directory,available,8.5,,medium,low,6,unstoppable,,,28/09/2026 15:34
 d80777ef-2d0d-4085-b718-5ad544be9fc0,bras.directory,available,8.99,26.99,high,low,4,namesilo,,,17/09/2026 13:20
 b6cd4ce4-a0d5-4a4a-8b28-d82bc5a9c4c5,glamour.directory,available,4.98,36.98,high,low,7,namecheap,,,21/08/2026 07:43
 2f0d2b82-4206-4cf6-9b95-47309fadabb8,vestibule.directory,available,4.98,36.98,high,low,9,namecheap,,,19/09/2026 12:47
 e0e62b97-b018-427c-82f3-8e1c09ae5eb2,carol.directory,available,8.99,26.99,high,low,5,namesilo,,,24/09/2026 13:02
 5a3e840a-67c0-49a4-b473-d7d8f3633e2c,penning.directory,available,8.99,26.99,medium,low,7,namesilo,,,21/09/2026 05:27
+8ed0dd7f-0169-4f98-b764-4f16b41d8180,emerson.directory,available,4.98,36.98,high,low,7,namecheap,,,29/09/2026 00:47
 d685baf1-9eb7-4161-bb5a-da972edbaabc,mythologic.directory,available,4.98,36.98,medium,low,10,namecheap,,,03/09/2026 12:33
 12e3fa43-05cc-484d-89d4-09ff06b8a6c4,envy.directory,available,8.5,,high,low,4,unstoppable,,,28/09/2026 05:36
 3c419c4a-5b87-416b-b0eb-25da154cddff,departed.directory,available,4.98,36.98,medium,low,8,namecheap,,,07/08/2026 11:31
@@ -377,16 +408,19 @@ d8b33f54-7daa-4fd4-b0a8-762c763969de,acceptive.directory,available,4.98,36.98,me
 c331c53f-54fd-4c08-9acd-6bbd79eeed87,fecund.directory,available,4.98,36.98,medium,low,6,namecheap,,,18/08/2026 00:34
 bba16b2f-7fa7-4f5c-9d5c-32d13d2ba93d,mississippi.directory,premium,414.2,414.2,high,low,11,spaceship,,,28/09/2026 03:26
 50ba38fd-dc18-4e96-990a-9c0ffa5a0b24,nerves.directory,available,8.99,26.99,medium,low,6,namesilo,,,27/09/2026 04:51
+42e43bec-8fb8-4337-aa6b-0e24b4a8f53b,holyoke.directory,available,8.5,,medium,low,7,unstoppable,,,28/09/2026 08:11
 86a8a3d3-182a-42e3-a681-e6f7d7479e4a,augsburg.directory,available,4.34,21.94,high,low,8,spaceship,,,27/09/2026 20:03
 d5ba7b87-dd0f-45af-8fb2-5525f0a87789,basilar.directory,available,4.98,36.98,medium,low,7,namecheap,,,08/08/2026 22:16
 52214dcf-2d58-4400-a167-5214a48d3b0e,bugged.directory,available,8.99,26.99,medium,low,6,namesilo,,,23/09/2026 10:21
 d767db38-8eeb-4641-8783-b5ded36bac49,cursively.directory,available,4.98,36.98,medium,low,9,namecheap,,,14/09/2026 10:07
 7fbfc086-1301-4f7a-9387-4113153ed4e7,florence.directory,premium,,,high,low,8,,,,28/09/2026 05:43
+0ff53e6b-21c2-4b91-8590-721291ebc5cd,companions.directory,available,8.99,26.99,medium,low,10,namesilo,,,29/09/2026 05:19
 b55a07d8-deb2-4197-9109-6f7bbedeb7f3,annexe.directory,available,8.99,26.99,medium,low,6,namesilo,,,19/09/2026 10:24
 263ca069-68f9-4f3c-8684-bf2b03cdb226,nagging.directory,available,4.98,36.98,medium,low,7,namecheap,,,03/09/2026 12:41
 ab0e78c0-4317-4281-9003-5d9b5b66056e,fussy.directory,available,4.98,36.98,medium,low,5,namecheap,,,08/08/2026 07:47
 7753b259-c296-4ada-b59d-5d647d7848d0,countless.directory,available,4.98,36.98,high,low,9,namecheap,,,24/09/2026 00:28
 86967e65-cd86-4d7f-b9e9-d999a98aaad6,serenely.directory,available,4.98,36.98,medium,low,8,namecheap,,,16/09/2026 01:06
+4d66b800-dba8-44e7-9355-55da19c0ebf2,whites.directory,available,4.34,21.94,high,low,6,spaceship,,,28/09/2026 16:57
 2aa5862f-cbb7-4050-a21d-96c559ff0b51,enate.directory,available,4.98,36.98,medium,low,5,namecheap,,,16/08/2026 21:18
 4aa341ce-939e-4a4c-9d57-ed482b6abef8,noticeable.directory,available,8.99,26.99,high,low,10,namesilo,,,24/09/2026 07:23
 58620995-3019-4a80-bbb5-2deebe6f3221,trifle.directory,available,4.98,36.98,high,low,6,namecheap,,,13/09/2026 08:07
@@ -396,6 +430,8 @@ b721c515-4f68-440f-886f-752c6090d85e,elliptic.directory,available,4.98,36.98,hig
 60f241bd-0882-471c-b663-c4218b8846b7,excess.directory,available,4.98,36.98,high,low,6,namecheap,,,17/08/2026 16:06
 51f64f79-83cc-4cd4-97ee-4f3a6b5d6e83,powdery.directory,available,4.98,36.98,medium,low,7,namecheap,,,18/08/2026 04:39
 c6ae3c61-34e7-41b9-9c3e-ca1f86c24a02,inscribe.directory,available,8.99,26.99,high,low,8,namesilo,,,21/09/2026 06:39
+0373115e-e438-4c33-a9ec-4fddfd24214f,pvc.directory,available,4.34,21.94,high,low,3,spaceship,,,29/09/2026 01:51
+db3f7048-cb54-4d18-88c2-660bd6d0e749,kingston.directory,premium,54.36,108.6,high,low,8,porkbun,,,29/09/2026 00:19
 0821dcfb-8c34-48be-8529-d2778cc58c3f,flamboyant.directory,available,8.99,26.99,high,low,10,namesilo,,,22/09/2026 12:57
 181d7ccf-0c8b-4605-9244-2f276d53827d,condemn.directory,available,7.99,,medium,low,7,name.com,,,
 391e95ca-177d-48d1-a8bc-8335141cbc3f,atrovent.directory,available,8.99,26.99,medium,low,8,namesilo,,,21/09/2026 01:03
@@ -415,12 +451,13 @@ fdd7bbd1-64d9-41ce-998b-57f35b82afb9,tricuspid.directory,available,4.98,36.98,me
 452b01ce-1d1a-4033-b7a4-c5370fd8568e,clipped.directory,available,4.98,36.98,high,low,7,namecheap,,,12/08/2026 11:16
 eab8ea78-3291-40a0-ab20-beff682e51ac,leafed.directory,available,4.98,36.98,medium,low,6,namecheap,,,22/08/2026 21:52
 dff9db53-4e9d-49b4-9337-5938a83b1813,cumulative.directory,available,4.98,36.98,high,low,10,namecheap,,,
+1b87600f-ebc9-4c71-8ffb-74ed9bfe6627,vidal.directory,available,8.5,,medium,low,5,unstoppable,,,28/09/2026 14:04
 2e47dda9-9acc-47ca-9e04-5834d24946ba,papery.directory,available,4.98,36.98,medium,low,6,namecheap,,,12/08/2026 02:43
 1c26afbd-0261-4fbf-934a-78a8b2b53512,huddled.directory,available,4.98,36.98,medium,low,7,namecheap,,,21/08/2026 14:34
 a5834e7f-8591-47ad-8ffc-f9337a624302,demand.directory,available,8.99,26.99,high,low,6,namesilo,,,24/09/2026 15:48
 b0cd3c71-3f4a-41de-8203-7679d7c91b4e,plant.directory,resell,,,high,low,5,Dynadot Inc,29/05/2026 01:49,29/05/2027 01:49,26/09/2026 08:11
 b0e0362e-0289-4a46-bbc9-24aeb3a75ae1,waterless.directory,available,4.98,36.98,medium,low,9,namecheap,,,06/08/2026 19:03
-4e0157cf-f5fb-41c6-a2ac-291734fceea2,father.directory,available,7.99,,high,low,6,name.com,,,
+4e0157cf-f5fb-41c6-a2ac-291734fceea2,father.directory,available,8.99,26.99,high,low,6,namesilo,,,29/09/2026 02:01
 b9591e5f-c23a-45dc-948c-5b5bf67e7378,boomer.directory,resell,,,high,low,6,"GoDaddy.com, LLC",10/12/2019 01:52,10/12/2026 01:52,26/09/2026 04:32
 7f832016-2827-453a-acc7-1d52d6dcc275,digging.directory,available,8.99,26.99,high,low,7,namesilo,,,27/09/2026 13:02
 aedac329-59d3-4fd5-a9f0-8c752b575bac,whisper.directory,available,4.98,36.98,high,low,7,namecheap,,,13/09/2026 11:38
@@ -437,7 +474,8 @@ a2312670-151c-4e0c-a138-f893494c8753,plattensee.directory,available,4.98,36.98,m
 48597957-a213-4479-87c1-0896599262b3,ixl.directory,available,4.98,36.98,medium,low,3,namecheap,,,
 026e4b6f-65f6-4ef9-b256-cb72f39a1896,learner.directory,available,8.99,26.99,high,low,7,namesilo,,,19/09/2026 22:19
 34d02ccf-3868-4ef9-bfe8-febd07953438,kantian.directory,available,4.98,36.98,medium,low,7,namecheap,,,22/08/2026 15:06
-40f76929-037b-44c5-977b-7753b4ab9a43,slowness.directory,available,7.99,,medium,low,8,name.com,,,
+06a70938-f546-4199-9d37-bfd81e70bcc4,equality.directory,available,8.5,,high,low,8,unstoppable,,,28/09/2026 19:07
+40f76929-037b-44c5-977b-7753b4ab9a43,slowness.directory,available,8.5,,medium,low,8,unstoppable,,,28/09/2026 23:49
 a9205601-5855-4b9e-b7d3-6cf121dff91f,rising.directory,available,4.98,36.98,high,low,6,namecheap,,,
 112bdd42-4c2b-46b7-bbce-1bf213ce08b8,decrepit.directory,available,4.98,36.98,medium,low,8,namecheap,,,13/08/2026 05:40
 db814d18-114a-466c-8aa5-eb63688e7d64,stunner.directory,available,4.98,36.98,high,low,7,namecheap,,,22/08/2026 16:40
@@ -451,30 +489,32 @@ d20973c5-e92d-46ee-9ced-e8a4859e3f61,glory.directory,available,7.99,,high,low,5,
 03812db3-4f85-47fe-b4bd-e3c6b8bf7925,pliny.directory,available,7.99,47.99,medium,low,5,godaddy,,,28/09/2026 01:57
 1597b132-0e2b-454d-ac0d-542833beafa5,inquirer.directory,available,8.99,26.99,medium,low,8,namesilo,,,20/09/2026 14:22
 a851b79b-aa58-4797-9f55-787906a56046,serving.directory,available,8.99,26.99,high,low,7,namesilo,,,25/09/2026 23:06
+ea34a144-266f-41c7-be0c-d78ac07f7107,frontier.directory,available,4.34,21.94,high,medium,8,spaceship,,,28/09/2026 09:50
 b6b704ad-f6be-421d-8f7e-e2962c1cdfcc,yob.directory,available,4.98,36.98,medium,low,3,namecheap,,,11/08/2026 08:46
 d44822b5-6be8-46c0-86f0-36c85e5a2dfa,swop.directory,available,7.99,33.99,high,low,4,name.com,,,22/09/2026 08:57
 5dfaf856-56db-436e-8e5d-48c7269fe172,pulpit.directory,available,8.99,26.99,high,low,6,namesilo,,,18/09/2026 17:14
 519734fe-7812-48e7-9284-5d28b8a49894,scalar.directory,available,4.98,36.98,high,low,6,namecheap,,,09/09/2026 22:16
-79e89d2e-a63b-4445-a6ed-e095b531adee,background.directory,available,7.99,,high,low,10,name.com,,,
+79e89d2e-a63b-4445-a6ed-e095b531adee,background.directory,available,21.2,21.2,high,low,10,cloudflare,,,29/09/2026 00:20
 a9b42311-7b40-4ad3-b5ad-408a37d5ec2f,applet.directory,available,4.98,36.98,high,low,6,namecheap,,,19/09/2026 21:38
 82cb790f-b19e-4961-8939-4f5b1e509660,adriatic.directory,available,8.99,26.99,high,low,8,namesilo,,,17/09/2026 10:03
 c4e10692-e42f-43c5-ad87-97902b18ede4,enceinte.directory,available,4.98,36.98,medium,low,8,namecheap,,,16/08/2026 22:09
-892fe5ff-f6c8-4e04-89ab-9f215e5d5ada,addition.directory,available,7.99,,high,low,8,name.com,,,
+892fe5ff-f6c8-4e04-89ab-9f215e5d5ada,addition.directory,available,4.34,21.94,high,low,8,spaceship,,,28/09/2026 18:22
 aa82586d-cbe3-4e20-b0f9-0f0349a5a2d9,biogeny.directory,available,4.98,36.98,medium,low,7,namecheap,,,23/09/2026 18:05
-1ffbeeb5-6821-41c1-9d7e-80c7b2c7694b,ounce.directory,available,7.99,,high,low,5,name.com,,,
+1ffbeeb5-6821-41c1-9d7e-80c7b2c7694b,ounce.directory,available,4.34,21.94,high,low,5,spaceship,,,28/09/2026 21:44
 1f443a3a-4e7c-4a0a-9033-50451aa7e796,retrovir.directory,available,8.99,26.99,medium,low,8,namesilo,,,21/09/2026 11:31
 f9f974a5-3183-4390-a07e-508c9107e9b1,diluted.directory,available,4.98,36.98,medium,low,7,namecheap,,,14/08/2026 07:45
 7ee9a544-e1b3-4460-8e4a-e410974cb285,helped.directory,available,4.98,36.98,medium,low,6,namecheap,,,25/09/2026 18:33
 eee6b342-1a26-44c2-bdea-fb2486ce5362,blate.directory,available,4.98,36.98,medium,low,5,namecheap,,,10/08/2026 13:35
-2934a06b-755c-4507-a768-c43a6b577cdc,scientifically.directory,available,7.99,,medium,low,14,name.com,,,
+2934a06b-755c-4507-a768-c43a6b577cdc,scientifically.directory,available,4.98,36.98,medium,low,14,namecheap,,,28/09/2026 07:41
 248cadaf-267c-4415-856d-42ba5010d7f9,pamela.directory,available,7.99,,high,low,6,name.com,,,
 2dabc504-0451-4dd7-8b4f-98f40ed62c8b,cajole.directory,available,8.99,26.99,medium,low,6,namesilo,,,24/09/2026 04:10
 d17af50f-954e-422e-a571-bafd344cf131,diplomatic.directory,available,8.99,26.99,high,low,10,namesilo,,,24/09/2026 10:36
+403a5d48-348e-41a9-824c-c835cd0e1f6f,xinjiang.directory,available,8.5,,medium,low,8,unstoppable,,,28/09/2026 20:28
 dc9988a4-aca8-4660-8c9f-f75bd7001058,azeri.directory,available,8.99,26.99,high,low,5,namesilo,,,21/09/2026 11:12
 68d34d5a-315e-43ce-bedb-e60bda3ae549,biology.directory,available,4.34,21.94,high,low,7,spaceship,,,28/09/2026 06:51
 613bc881-4130-4425-9ad2-5426078e7e28,captain.directory,available,7.99,,high,low,7,name.com,,,
 b05654aa-0dfb-48f4-8c01-e9b12e4d6e70,klaus.directory,available,8.99,26.99,medium,low,5,namesilo,,,27/09/2026 01:38
-0d471606-ff51-4377-b5a1-4464a3de8b7a,television.directory,premium,23.6,23.6,high,low,10,namesilo,,,25/09/2026 22:50
+0d471606-ff51-4377-b5a1-4464a3de8b7a,television.directory,premium,23.6,23.6,high,low,10,namesilo,,,28/09/2026 15:29
 7cefc87d-910b-467e-a950-fca79f04e11f,premier.directory,resell,7.99,,high,low,7,"Spaceship, Inc.",20/04/2026 05:38,20/04/2027 05:38,27/09/2026 04:55
 336f3cb7-55d1-47f3-b6c7-08eff90e46a2,nourished.directory,available,4.98,36.98,high,low,9,namecheap,,,03/09/2026 22:12
 5b61958e-89fa-4d58-ab8f-2deabffea60a,proverbial.directory,available,4.98,36.98,high,low,10,namecheap,,,09/09/2026 04:32
@@ -506,7 +546,7 @@ b784494c-da65-439b-8b80-c9a549f60eed,shane.directory,available,8.99,26.99,high,l
 3d99410f-3fac-4c2f-b240-36576a23b249,summertime.directory,available,8.99,26.99,high,low,11,namesilo,,,18/09/2026 00:39
 3837ac64-5c51-4dcf-9f3c-c87a570baff7,formidable.directory,available,4.98,36.98,high,low,10,namecheap,,,18/08/2026 12:12
 5b192ab1-5824-415d-a507-2f7c6d142eaf,alternate.directory,available,8.99,26.99,high,low,9,namesilo,,,22/09/2026 02:29
-3dbff182-830a-4e75-ab11-692fec18cbde,robotics.directory,resell,,,high,low,8,Hosting Concepts B.V. d/b/a Registrar.eu,28/05/2018 10:39,28/05/2027 10:39,26/09/2026 08:42
+3dbff182-830a-4e75-ab11-692fec18cbde,robotics.directory,resell,,,high,low,8,Hosting Concepts B.V. d/b/a Registrar.eu,28/05/2018 10:39,28/05/2027 10:39,28/09/2026 08:35
 63f463be-2f58-47a1-a29d-9f3adcbcc42d,dozy.directory,available,4.98,36.98,medium,low,4,namecheap,,,14/08/2026 18:06
 b67dad29-5a48-4332-8daa-655eba8d9201,dressed.directory,available,8.99,26.99,high,low,7,namesilo,,,22/09/2026 07:16
 17562071-c9b1-47ca-8572-94832e918913,crispy.directory,available,4.98,36.98,high,low,6,namecheap,,,13/08/2026 07:23
@@ -515,6 +555,7 @@ b67dad29-5a48-4332-8daa-655eba8d9201,dressed.directory,available,8.99,26.99,high
 ed35bff7-8de5-463b-a58f-23e54a9cd55f,unemployment.directory,available,7.99,,high,low,12,name.com,,,
 f3b7e565-fd76-4e66-aceb-a93ee79124b0,ardently.directory,available,4.98,36.98,medium,low,8,namecheap,,,13/09/2026 20:41
 8fceaefb-34df-4885-8a60-c5e7ef13514b,unsocial.directory,available,4.98,36.98,medium,low,8,namecheap,,,12/09/2026 20:11
+8da486d5-bc4e-4b70-a8bf-05d9c6874457,voltage.directory,available,8.99,26.99,high,low,7,namesilo,,,29/09/2026 00:46
 6f292356-2e12-46e3-9a0e-08753ac6da28,marvellous.directory,available,8.99,26.99,high,low,10,namesilo,,,25/09/2026 00:14
 d882c67c-5609-4d85-b9d3-ced9e7e154ec,gird.directory,available,4.98,36.98,medium,low,4,namecheap,,,20/09/2026 06:19
 57c7d5a5-653a-4f55-ae23-fb997961f93e,dogsledding.directory,available,4.98,36.98,medium,low,11,namecheap,,,20/09/2026 01:02
@@ -533,8 +574,8 @@ cf230002-e473-4da5-9544-2e5fd2300f4f,minty.directory,available,4.98,36.98,high,l
 1bf8c7df-4792-4fe1-a371-25abf575fb7e,washes.directory,available,8.99,26.99,medium,low,6,namesilo,,,20/09/2026 04:54
 c1697341-6f00-4717-bd22-8244e56c1c83,tousled.directory,available,4.98,36.98,medium,low,7,namecheap,,,14/08/2026 11:02
 f5206659-f759-4907-b52c-84f5810efc5d,jeweled.directory,available,4.98,36.98,high,low,7,namecheap,,,18/08/2026 21:10
-bff1ba5a-ca03-486a-a657-ca2e29b6baa1,affidavit.directory,available,7.99,,high,low,9,name.com,,,
-0d032f94-2a51-4c06-a32b-0ae859ba8fdf,bit.directory,premium,23.6,23.6,high,medium,3,namesilo,,,24/09/2026 08:27
+bff1ba5a-ca03-486a-a657-ca2e29b6baa1,affidavit.directory,available,21.2,21.2,medium,low,9,cloudflare,,,28/09/2026 19:16
+0d032f94-2a51-4c06-a32b-0ae859ba8fdf,bit.directory,premium,20.9,20.9,high,medium,3,spaceship,,,29/09/2026 02:55
 9ce94644-20c6-4270-828c-657220f448b4,sources.directory,available,8.99,26.99,medium,low,7,namesilo,,,17/09/2026 22:23
 c86d16d0-eb39-4387-ab7f-ac46fee1bafe,balancer.directory,available,4.98,36.98,medium,low,8,namecheap,,,21/09/2026 20:52
 43e1541d-a880-4342-b903-25ece0502a07,claire.directory,available,7.99,,high,low,6,name.com,,,
@@ -558,18 +599,18 @@ ffe83b1c-719e-4f78-9fec-f9bae69fc444,gentile.directory,available,4.98,36.98,high
 0e29d03d-a464-41b0-8ff4-96957928e242,counterfeits.directory,available,4.98,36.98,low,low,12,namecheap,,,19/09/2026 21:40
 3358837d-e181-479d-894b-1ac9548d0083,irani.directory,available,4.98,36.98,high,low,5,namecheap,,,22/08/2026 09:42
 d6380980-72f4-4185-950d-eed28c82d0a6,milch.directory,available,4.98,36.98,medium,low,5,namecheap,,,24/08/2026 22:55
-346d1ebd-47e8-4d6b-b193-3e9bf9423ada,note.directory,available,7.99,,high,low,4,name.com,,,
 8ebb2941-d401-41d8-b0e5-bcc460957e5e,balzac.directory,available,4.98,36.98,medium,low,6,namecheap,,,22/09/2026 00:32
 5d1a77ca-31bf-4a61-ad27-1be9bbdb1e7a,lengthwise.directory,available,4.98,36.98,medium,low,10,namecheap,,,22/08/2026 23:38
 9780cea1-47cd-40a4-adfe-bbd33a0b5f0d,ossiculate.directory,available,4.98,36.98,medium,low,10,namecheap,,,04/09/2026 18:24
 13ecc0e5-e1d9-4f12-9dc3-ad559ce4db30,bicycling.directory,available,8.99,26.99,high,low,9,namesilo,,,23/09/2026 13:28
-7c09e17f-0bde-4d37-b74b-e6649cdade7d,buy.directory,premium,512,512,high,medium,3,namesilo,,,25/09/2026 22:47
+7c09e17f-0bde-4d37-b74b-e6649cdade7d,buy.directory,premium,218.8,437.19,high,medium,3,porkbun,,,28/09/2026 15:25
 d3345f14-1b05-497a-b386-054dd8c8263c,sorrowful.directory,available,4.98,36.98,medium,low,9,namecheap,,,10/09/2026 14:37
 2a76051d-c5aa-4cfd-9aa6-7f5f7dc11188,atropa.directory,available,8.99,26.99,medium,low,6,namesilo,,,21/09/2026 00:54
 f7106be4-d831-4964-b6cb-dbd0318593a8,pokey.directory,available,4.98,36.98,medium,low,5,namecheap,,,14/08/2026 07:36
 1007be49-0cdd-4cdb-94f3-f37fc452a2e2,asshole.directory,available,4.98,36.98,medium,low,7,namecheap,,,08/08/2026 23:24
 3a4b0e31-9be0-4ecb-9447-41b2a91357a8,focussed.directory,available,4.98,36.98,high,low,8,namecheap,,,18/08/2026 09:47
 db005e34-98f9-4e0b-a29a-ee4eea9b13eb,grazed.directory,available,4.98,36.98,medium,low,6,namecheap,,,20/08/2026 19:29
+07b9ddb2-2f0a-4830-a0c4-5f6116550eeb,westport.directory,premium,,,medium,low,8,,,,28/09/2026 08:11
 3657bc22-b23c-43e4-9868-0a935cca50f1,cables.directory,resell,,,medium,low,6,"GoDaddy.com, LLC",22/02/2014 15:15,22/02/2027 15:15,26/09/2026 04:42
 40f0d66c-36e0-432d-b048-273908eaf34c,newest.directory,available,8.99,26.99,high,low,6,namesilo,,,18/09/2026 15:57
 48074523-2d04-479a-aad2-ed1be591d106,coffeepots.directory,available,8.99,26.99,medium,low,10,namesilo,,,21/09/2026 00:56
@@ -611,6 +652,7 @@ d2287523-fb18-4bb8-8830-8debe2beef02,batteries.directory,available,8.99,26.99,me
 67ba5860-d816-442f-9be4-6934c807c9d6,toby.directory,available,8.99,26.99,high,low,4,namesilo,,,28/09/2026 03:08
 ce13ac4b-f343-4dbc-bae4-febd625ea4f9,baluchi.directory,available,8.99,26.99,medium,low,7,namesilo,,,21/09/2026 23:42
 9755f355-0d64-44fc-b592-92609060e0db,washed.directory,available,4.98,36.98,high,low,6,namecheap,,,13/09/2026 08:31
+a89b9f96-a976-47ee-9782-e15b7d5d0c84,geography.directory,available,4.34,21.94,high,low,9,spaceship,,,28/09/2026 19:20
 cdf3abaf-d893-4b7f-a27c-f55dea26d5fc,length.directory,available,7.99,,high,low,6,name.com,,,
 c5a1a935-73c2-4ba5-8855-d960499b094e,hic.directory,available,7.99,,medium,low,3,name.com,,,
 ba4fc74a-e13d-4edf-9f4b-bae1c67365ce,abscess.directory,available,4.98,36.98,medium,low,7,namecheap,,,16/09/2026 17:31
@@ -626,7 +668,7 @@ c417a144-bdf3-4eee-99c2-3d94281bff65,follicular.directory,available,4.98,36.98,m
 7a526a6c-1b3e-41e2-bbc0-97ac6b9482ee,splurge.directory,available,8.99,26.99,high,low,7,namesilo,,,23/09/2026 17:20
 c823c0eb-335c-4bcd-942f-51d2d185845f,comforter.directory,available,8.99,26.99,medium,low,9,namesilo,,,18/09/2026 10:03
 e7430a11-6b7e-419d-b220-28a8e860184d,adz.directory,available,8.99,26.99,medium,low,3,namesilo,,,17/09/2026 12:01
-ac784c4b-d9ab-4891-b9f0-09c23d0d4a5d,carriage.directory,available,7.99,,high,low,8,name.com,,,
+ac784c4b-d9ab-4891-b9f0-09c23d0d4a5d,carriage.directory,available,4.34,21.94,high,low,8,spaceship,,,29/09/2026 00:08
 150f5df4-c50b-480e-9b36-4c2156a3cb96,laotian.directory,available,4.98,36.98,medium,low,7,namecheap,,,22/08/2026 19:36
 cb08ec1f-7e96-45f9-87c6-8dbf263c8627,fearless.directory,available,8.99,26.99,high,low,8,namesilo,,,22/09/2026 12:19
 2980f78c-79c1-405d-a15a-e9fa1dbfdd71,lillie.directory,available,8.99,26.99,high,low,6,namesilo,,,22/09/2026 21:47
@@ -646,6 +688,7 @@ bc0cf859-eb17-4380-98f3-537620b3ffdb,analysis.directory,available,21.2,21.2,high
 81ee7592-cb6f-4929-9b99-d95b18a568ee,apologia.directory,available,4.98,36.98,medium,low,8,namecheap,,,19/09/2026 18:44
 7d950b62-4eec-4abf-b7fd-bd2ad3b42bd2,digestive.directory,available,4.98,36.98,high,low,9,namecheap,,,24/08/2026 15:24
 f4a3d83c-c00c-4c13-90f6-a2cc0eb9eb96,unprovable.directory,available,4.98,36.98,medium,low,10,namecheap,,,12/09/2026 17:29
+328ba091-5d69-4680-a82c-33e7e11a9bd3,damien.directory,available,4.34,21.94,medium,low,6,spaceship,,,28/09/2026 21:57
 22623dd4-5a27-46b5-ac4c-2e907bdc08b2,ron.directory,premium,23.6,23.6,high,low,3,namesilo,,,25/09/2026 00:25
 16d07755-270f-4197-b0fa-f758d41a3c6f,retained.directory,available,4.34,21.94,high,low,8,spaceship,,,27/09/2026 13:05
 6f903e14-bfb5-457e-818c-f6f79bd4a4e0,metacarpal.directory,available,4.98,36.98,medium,low,10,namecheap,,,24/08/2026 21:30
@@ -664,7 +707,7 @@ f50fc2bf-4da0-4fbd-bd4c-f78d9249cc91,alee.directory,available,4.98,36.98,low,low
 20cef05f-b982-4067-8fe7-34fe251dbdf8,uncrowned.directory,available,4.98,36.98,medium,low,9,namecheap,,,13/08/2026 08:36
 fb3db941-ca40-4c3d-b217-ee99c90c626b,categorial.directory,available,4.98,36.98,high,low,10,namecheap,,,11/08/2026 21:27
 e9a7f9b5-13c2-4aba-9a63-98eac6ef174a,treasure.directory,available,4.98,36.98,high,low,8,namecheap,,,27/09/2026 06:38
-ae7ed10b-e697-4d31-9b1a-f817e8a3e63c,equally.directory,available,7.99,,high,low,7,name.com,,,
+ae7ed10b-e697-4d31-9b1a-f817e8a3e63c,equally.directory,available,8.5,,medium,low,7,unstoppable,,,28/09/2026 12:20
 06242276-0037-4f45-a58c-a31144f0be5e,undercover.directory,available,4.98,36.98,high,low,10,namecheap,,,12/08/2026 09:28
 3f667c7e-e686-468f-a5fe-e79a2b8192cb,quivering.directory,available,4.98,36.98,medium,low,9,namecheap,,,11/09/2026 19:15
 76b3eafb-7e49-4ca2-ad42-4c7ee932c3ea,arb.directory,available,8.99,26.99,high,low,3,namesilo,,,20/09/2026 00:31
@@ -677,6 +720,7 @@ e948ec75-21fe-4e52-b44a-552a72d93477,mismatched.directory,available,4.98,36.98,m
 7d92af27-91f7-41a7-adb1-e56018e497de,avenger.directory,available,8.99,26.99,high,low,7,namesilo,,,21/09/2026 08:56
 02b46aa2-4b14-4a7e-bca6-747a6562bf36,argive.directory,available,4.98,36.98,medium,low,6,namecheap,,,06/08/2026 18:27
 40242a2b-7880-467b-88dc-e9c8dca9ecaf,quentin.directory,available,8.99,26.99,medium,low,7,namesilo,,,27/09/2026 01:36
+5b60d321-8377-42da-b9ff-851523f56b91,violate.directory,available,4.34,21.94,medium,low,7,spaceship,,,28/09/2026 13:36
 0a459a2b-3504-44ca-9ee8-c570a888b56f,zombie.directory,available,8.99,26.99,high,low,6,namesilo,,,21/09/2026 07:05
 c4da814f-609c-4aa5-9faa-cf18c4afc690,ardour.directory,available,8.99,26.99,medium,low,6,namesilo,,,20/09/2026 03:15
 5717f6cd-eef7-4e26-b7ce-2b34c67701a5,jane.directory,available,7.99,33.99,high,low,4,name.com,,,25/09/2026 11:44
@@ -687,6 +731,7 @@ ae2279bf-b7f7-462f-98c9-db08e3059c59,numb.directory,available,4.98,36.98,medium,
 7957666c-58aa-4ebd-8f11-d9459b37c6eb,prurient.directory,available,4.98,36.98,medium,low,8,namecheap,,,24/08/2026 11:58
 d1146e4a-9218-42db-bbb5-0c7c5786831d,verminous.directory,available,4.98,36.98,medium,low,9,namecheap,,,13/09/2026 04:05
 c54e0ae4-33c3-4815-af58-43d07aa8aa11,bounded.directory,available,4.98,36.98,medium,low,7,namecheap,,,10/08/2026 21:52
+170d88d3-3422-47a0-951f-105d82dfe7a4,granite.directory,available,4.34,21.94,high,low,7,spaceship,,,28/09/2026 19:22
 9f37202c-8922-42b6-aac7-7e139dc6d165,elegant.directory,available,8.99,26.99,high,low,7,namesilo,,,24/09/2026 13:48
 221c14af-6671-49b0-a84f-defa24b48e8c,bitters.directory,available,8.99,26.99,medium,low,7,namesilo,,,23/09/2026 23:09
 9ad0e88a-4456-4961-ba81-91f154bec0d6,bottomless.directory,available,4.98,36.98,high,low,10,namecheap,,,10/08/2026 21:21
@@ -705,10 +750,10 @@ bd710c2d-6590-4b0e-ba7f-abf561b90ca2,suggest.directory,available,7.99,,high,low,
 6a764356-0b82-46b9-b7d6-5c4ca0769396,auteur.directory,available,8.99,26.99,high,low,6,namesilo,,,21/09/2026 05:06
 0286ec84-02b8-4426-ac4d-460f92c1b63e,firm.directory,resell,,,high,low,4,"Spaceship, Inc.",25/09/2025 05:24,25/09/2027 05:24,28/09/2026 03:17
 94c47fd8-58fe-4bd4-af7b-e1b5332c82bd,concession.directory,resell,,,high,low,10,"GoDaddy.com, LLC",09/02/2016 10:31,09/02/2027 10:31,26/09/2026 05:10
-7686d786-ab1e-4ff2-9150-da39354710ce,mastercard.directory,available,,,high,medium,10,,,,
-4a651263-ec48-49e1-bc69-bd23c7157528,step.directory,available,7.99,,high,low,4,name.com,,,
+4a651263-ec48-49e1-bc69-bd23c7157528,step.directory,available,4.34,21.94,high,low,4,spaceship,,,28/09/2026 17:14
 dded2ba3-b52b-421a-bb92-00efc1abd65b,beds.directory,available,4.34,21.94,high,low,4,spaceship,,,27/09/2026 18:14
 4521cbda-1572-4135-ab93-b6611827e518,acheron.directory,available,8.99,26.99,medium,low,7,namesilo,,,17/09/2026 00:29
+b2efffc8-4df0-4e1e-b21f-26399d26c484,herzog.directory,available,8.99,26.99,high,low,6,namesilo,,,28/09/2026 16:13
 ea42d339-1123-4eaa-b528-64aa9e27f98b,ventured.directory,available,8.99,26.99,medium,low,8,namesilo,,,25/09/2026 06:03
 e34db2e8-2f74-4cec-8ba1-92f125fff3e6,orthopedic.directory,available,4.98,36.98,high,low,10,namecheap,,,04/09/2026 18:03
 15b804f7-44ac-413c-9995-c0c73ce0a610,nguyen.directory,available,4.5,22.69,high,low,6,dynadot,,,28/09/2026 04:48
@@ -719,6 +764,7 @@ bebc0050-e7cd-4ec7-8110-eaaef979dabd,misplaced.directory,available,4.98,36.98,me
 190b9873-2413-4739-bb40-bbe9aa7fbf0b,faddish.directory,available,4.98,36.98,medium,low,7,namecheap,,,17/08/2026 20:33
 76d2d5b5-dfa9-4949-ab4b-44e302cd0d9f,abstemious.directory,available,4.98,36.98,medium,low,10,namecheap,,,
 8fe24cf9-0986-4935-a0a4-846c32e0d94f,arctic.directory,available,4.98,36.98,high,low,6,namecheap,,,06/08/2026 16:07
+cddb1ac1-d973-45c5-9e35-9032e8f3bf18,decorations.directory,available,4.5,22.69,medium,low,11,dynadot,,,28/09/2026 23:03
 d56e3e16-a57f-44b1-a0a7-df48c4cf7aef,cassidy.directory,available,8.99,26.99,high,low,7,namesilo,,,26/09/2026 03:43
 72cddeaa-0e71-4cb7-8de8-82e5f2844df8,pals.directory,available,8.99,26.99,high,low,4,namesilo,,,20/09/2026 10:42
 b38b43a3-a785-4408-be9c-8cae75944635,downer.directory,available,4.98,36.98,medium,low,6,namecheap,,,14/08/2026 02:41
@@ -730,13 +776,16 @@ c14b4478-d753-4c41-9176-7e5a576a5a03,coalition.directory,available,8.99,26.99,hi
 5cff9dc4-82df-484f-9f08-1c78de7d2c69,clanking.directory,available,4.98,36.98,medium,low,8,namecheap,,,12/08/2026 09:33
 9cf16a19-7ada-416b-a1a3-e393c9d789b2,lawrence.directory,premium,118.8,118.8,high,low,8,namesilo,,,25/09/2026 04:32
 e5a03494-eca9-4339-bc84-d04aa104ca78,wayfaring.directory,available,4.98,36.98,medium,low,9,namecheap,,,13/09/2026 08:47
+60945f5c-5543-48e5-87dc-14c8ef79039c,grady.directory,available,4.34,21.94,medium,low,5,spaceship,,,28/09/2026 08:08
 d86d291e-9d54-440b-8a14-c910992e551a,thirties.directory,available,4.98,36.98,medium,low,8,namecheap,,,16/09/2026 12:05
+d7971ba3-7464-440c-91a3-ae19cf8e7c38,shortage.directory,available,4.34,21.94,high,low,8,spaceship,,,28/09/2026 18:53
 d6b09009-6459-4846-9bc0-d133de119ecf,choler.directory,available,8.99,26.99,medium,low,6,namesilo,,,19/09/2026 06:04
 4a75472d-6374-4355-85b4-5813cbc4488d,allophonic.directory,available,4.98,36.98,medium,low,10,namecheap,,,
 2fa5b658-3ba0-4628-8470-7652ba9cf31c,antiquity.directory,available,8.99,26.99,medium,low,9,namesilo,,,19/09/2026 03:50
 657e77b7-193a-4c1d-9459-23713755c6d6,fault.directory,available,4.98,36.98,high,low,5,namecheap,,,10/08/2026 12:51
 e6fbb72d-5913-4173-9f1e-74b8af8e1fcc,warburg.directory,available,8.99,26.99,medium,low,7,namesilo,,,16/09/2026 19:40
 7bb86b4e-46ee-4861-bf97-93f625c94348,exponent.directory,available,4.98,36.98,high,low,8,namecheap,,,17/09/2026 11:51
+50c282f5-4bd5-405e-8b98-b14d4f97a89d,practise.directory,available,8.99,26.99,high,low,8,namesilo,,,29/09/2026 01:53
 7ced2e6a-2601-47d5-8b90-b2c36b3c5bd7,prat.directory,available,4.98,36.98,medium,low,4,namecheap,,,09/08/2026 11:18
 53b39551-ca50-452e-baad-93d527f11190,buckshee.directory,available,4.98,36.98,medium,low,8,namecheap,,,11/08/2026 07:33
 3e35964a-bea0-4c40-8318-6f449d93dcc9,humbug.directory,available,8.99,26.99,medium,low,6,namesilo,,,21/09/2026 23:48
@@ -747,6 +796,7 @@ d267432b-dddc-44a1-9a75-3e62b226c531,perfidy.directory,available,8.99,26.99,medi
 ca1c42d2-8287-4299-ae31-876d91144a92,carotid.directory,available,4.98,36.98,high,low,7,namecheap,,,11/08/2026 19:33
 3d2db5f3-11e9-4023-a208-6b6d116fb024,appointive.directory,available,4.98,36.98,medium,low,10,namecheap,,,06/08/2026 07:16
 d5991406-26e0-4e7a-be88-ac537e6bccf5,notices.directory,available,8.99,26.99,medium,low,7,namesilo,,,20/09/2026 07:18
+422de411-1c05-415c-abb5-3ed13f85c5f9,sucking.directory,available,4.5,22.69,medium,low,7,dynadot,,,28/09/2026 15:26
 d2b97848-26cf-446f-a771-bef2cbd1bdc9,tortuous.directory,available,4.98,36.98,medium,low,8,namecheap,,,11/09/2026 18:01
 b47e9a4e-c0d2-4770-8674-94a35df0755b,unflavored.directory,available,4.98,36.98,medium,low,10,namecheap,,,03/09/2026 19:15
 78fe64aa-e4dc-4c02-b783-1ea17f26675d,handsomely.directory,available,4.98,36.98,high,low,10,namecheap,,,14/09/2026 22:57
@@ -776,7 +826,7 @@ f8b0e003-5128-48c2-aad8-1290f8c07375,boaster.directory,available,4.98,36.98,medi
 a8deea90-0556-4689-837c-aaaa73fe1343,holdup.directory,available,8.99,26.99,medium,low,6,namesilo,,,20/09/2026 06:37
 f337a240-1eae-4601-964d-b447dcf0c27e,cancel.directory,available,7.99,,medium,low,6,name.com,,,
 536bd532-9eea-434c-bc88-f8dd084512f4,arawn.directory,available,8.99,26.99,medium,low,5,namesilo,,,20/09/2026 00:29
-29556012-1795-4dbc-9ec5-19c01c3a6f21,closer.directory,available,7.99,,high,low,6,name.com,,,
+29556012-1795-4dbc-9ec5-19c01c3a6f21,closer.directory,available,8.99,26.99,high,low,6,namesilo,,,28/09/2026 14:02
 3173c451-fe51-43d2-9196-9cc1a4ae20f3,gibe.directory,available,4.98,36.98,medium,low,4,namecheap,,,22/09/2026 04:17
 5cef2648-5ace-4820-a02a-cbfeabec0a2e,phoenix.directory,premium,128.7,128.7,high,medium,7,namecheap,,,24/09/2026 12:16
 b63222eb-7d86-42d1-a3fa-a071d893e2ac,axes.directory,available,4.98,36.98,low,low,4,namecheap,,,
@@ -786,11 +836,12 @@ e759af1e-3c90-4d8d-b9d4-eb18e86a9aef,aesthete.directory,available,8.99,26.99,med
 b5e2ec18-7be6-48b7-8b89-d83c88d99410,gram.directory,available,7.99,,high,low,4,name.com,,,
 94612168-bb28-42ce-a19b-e0f630e3ae67,enthusiast.directory,available,4.98,36.98,high,low,10,namecheap,,,08/09/2026 02:16
 a912cbcb-118f-4647-862d-2858bded4624,northman.directory,available,4.98,36.98,medium,low,8,namecheap,,,03/09/2026 21:21
+e8cba3b4-95b8-4a8b-a85d-1fe5f0a71b7b,lps.directory,available,8.99,26.99,high,low,3,namesilo,,,28/09/2026 11:44
 214e0091-d57f-429c-960a-7bb8adca8267,sincere.directory,available,8.99,26.99,high,low,7,namesilo,,,24/09/2026 13:03
 4bd8e850-043d-4b3b-b0e4-29e546a8eb52,memphis.directory,premium,102.67,102.67,high,low,7,spaceship,,,28/09/2026 06:24
 00784e00-c186-4852-87ad-3a1c6e7d66b1,jibe.directory,available,8.99,26.99,medium,low,4,namesilo,,,22/09/2026 04:14
 6fdcae04-5f24-4369-939e-24423bc50138,foto.directory,resell,,,high,low,4,"NameSilo, LLC",20/02/2014 08:24,20/02/2027 08:24,26/09/2026 06:13
-5e232e00-e98b-47cf-8ea3-846cbf3ced10,unique.directory,resell,,,high,medium,6,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,26/09/2026 09:51
+5e232e00-e98b-47cf-8ea3-846cbf3ced10,unique.directory,resell,,,high,medium,6,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,28/09/2026 09:43
 b51e1a96-b364-4027-b27a-024c30e36b29,misses.directory,available,7.99,,high,low,6,name.com,,,
 bac7f911-fa98-41fb-94f3-e458b54b1d17,grasping.directory,available,4.98,36.98,medium,low,8,namecheap,,,07/08/2026 22:04
 afb3caaa-5932-4833-98fa-5faee3e22d60,massively.directory,available,4.98,36.98,medium,low,9,namecheap,,,15/09/2026 13:35
@@ -798,11 +849,12 @@ b4fc177a-0c58-4529-8c49-dd82ef01c76f,accurst.directory,available,4.98,36.98,medi
 33e4dfe8-08fd-4134-a563-a3e72a8bcf31,diluvian.directory,available,4.98,36.98,medium,low,8,namecheap,,,14/08/2026 07:51
 fa433dcf-b7ac-4dc3-b04b-072d6b1d10e0,villainous.directory,available,4.98,36.98,medium,low,10,namecheap,,,03/09/2026 14:59
 b3305e9c-d859-4090-b58d-d99cf2fe7106,extraneous.directory,available,4.98,36.98,medium,low,10,namecheap,,,17/08/2026 19:20
+e3f76716-679a-4224-b2e6-f38567e376dd,hillsborough.directory,available,8.99,26.99,medium,low,12,namesilo,,,28/09/2026 07:56
 8cb899c4-11f6-4a20-8e1a-e739cfb98375,famously.directory,available,4.98,36.98,high,low,8,namecheap,,,14/09/2026 16:46
 f4e6e4ad-7db1-47e3-ad37-46becb4ef90a,almandine.directory,available,8.99,26.99,medium,low,9,namesilo,,,18/09/2026 12:29
 d1308197-9ee8-4129-9212-6cf4ddf36483,flaming.directory,available,4.98,36.98,high,low,7,namecheap,,,18/08/2026 06:30
 5bb45864-bf5b-451e-9322-239c7aaf3625,aspiration.directory,available,8.99,26.99,high,low,10,namesilo,,,18/09/2026 16:53
-d638bd7e-3062-411d-8052-8aeb116c7f9d,alabama.directory,resell,,,high,low,7,"GoDaddy.com, LLC",22/02/2014 17:17,22/02/2028 17:17,26/09/2026 01:28
+d638bd7e-3062-411d-8052-8aeb116c7f9d,alabama.directory,resell,,,high,low,7,"GoDaddy.com, LLC",22/02/2014 17:17,22/02/2028 17:17,28/09/2026 20:00
 b2c33e1c-6378-4861-ba83-e4e8061cb0ba,boarded.directory,available,7.99,,high,low,7,name.com,,,
 495df8ab-1e2a-47ca-8b52-0ad9223f50fc,woodbine.directory,available,4.98,36.98,medium,low,8,namecheap,,,18/09/2026 20:11
 21ae5d38-0d4c-40e5-a4ef-6bc7943abcfd,opinions.directory,available,8.99,26.99,medium,low,8,namesilo,,,17/09/2026 07:35
@@ -815,10 +867,12 @@ f56b9a4e-7f0e-4f7b-a488-7a226e8e3d66,dreyfus.directory,available,8.99,26.99,medi
 4fa77a93-eb81-4fa4-a8a6-68fb503bf18a,squeaky.directory,available,4.98,36.98,medium,low,7,namecheap,,,10/09/2026 00:04
 7cfcbb87-0146-4554-80a1-3e9e54429023,wolfe.directory,available,8.99,26.99,high,low,5,namesilo,,,25/09/2026 10:55
 4bc87cad-c444-4321-a845-90b77e1ae644,snoopy.directory,available,4.98,36.98,medium,low,6,namecheap,,,03/09/2026 21:54
+32d230ec-dad2-4c8a-a4e0-23f499353848,pupils.directory,available,4.63,22.14,low,low,6,porkbun,,,28/09/2026 17:49
 356947c1-56d3-4787-8123-97b1abb4cf55,peso.directory,available,8.99,26.99,high,low,4,namesilo,,,24/09/2026 14:37
 15b67a98-d923-49e2-8c0f-e52687656c76,stalk.directory,available,4.98,36.98,high,low,5,namecheap,,,19/09/2026 07:14
 fce3ec07-2ce7-4f96-ab28-6a337650314d,jocund.directory,available,4.98,36.98,medium,low,6,namecheap,,,22/08/2026 13:40
 57b5d663-a108-4261-a519-96f50dd882c2,baking.directory,available,8.99,26.99,high,low,6,namesilo,,,22/09/2026 16:25
+6159f7ca-270b-4485-8c86-81946ae180ea,wwii.directory,available,8.99,26.99,medium,low,4,namesilo,,,28/09/2026 07:36
 8f82e1ea-98d0-4550-8048-540352295138,mcmuffin.directory,available,7.99,,high,low,8,name.com,,,
 55db846d-2ed4-4149-94d7-3bd80fb5968b,illiteracy.directory,available,8.99,26.99,medium,low,10,namesilo,,,19/09/2026 01:54
 4b505b1c-3318-4618-bd6e-10a5804b3117,breezy.directory,available,8.99,26.99,high,low,6,namesilo,,,22/09/2026 22:40
@@ -836,6 +890,7 @@ c26ad4c2-dcbc-461c-958d-d5b21fae0aea,verbatim.directory,available,4.98,36.98,hig
 774e78cc-202a-415b-9d70-15e306e6db39,anxiety.directory,available,8.99,26.99,high,low,7,namesilo,,,19/09/2026 15:59
 06164f23-c386-4f81-8bbc-5e3496be16b2,luminous.directory,available,4.98,36.98,high,low,8,namecheap,,,
 705dd44d-456b-4c47-a74f-d78986e86d37,his.directory,premium,118.8,118.8,high,low,3,namesilo,,,
+82a5f272-d90a-4f8e-a3ae-858d8a3fb0ad,replacing.directory,available,8.5,,medium,low,9,unstoppable,,,29/09/2026 02:02
 07b83211-865b-4c51-9736-7c72f42d3137,adjustable.directory,available,4.98,36.98,high,low,10,namecheap,,,21/09/2026 18:40
 c36f943f-069f-48f2-b021-7f0feaf15ae8,inheriting.directory,available,4.98,36.98,medium,low,10,namecheap,,,22/08/2026 05:04
 5af5b2d6-87ac-4002-bd97-712946f611f9,trying.directory,available,4.98,36.98,high,low,6,namecheap,,,03/09/2026 15:44
@@ -854,9 +909,12 @@ ae608384-3624-4ed6-aa9b-a0857185ad38,mime.directory,available,4.98,36.98,medium,
 6208f87b-085b-4551-b026-e9ba62747587,intricate.directory,available,4.98,36.98,high,low,9,namecheap,,,25/09/2026 10:49
 b5d1f064-54b9-4e85-958f-18a82644ad92,pinched.directory,available,4.98,36.98,high,low,7,namecheap,,,10/08/2026 18:58
 9c5e9408-f10b-4df1-b3be-4951d536cf9c,appleton.directory,available,4.98,36.98,medium,low,8,namecheap,,,19/09/2026 21:41
+7acb98d4-8d3a-48ac-93ed-cc8c66a05e15,navarro.directory,available,4.63,22.14,medium,low,7,porkbun,,,28/09/2026 08:00
 9470d9ca-7416-4598-af3f-ed1509dbb61b,forbearing.directory,available,4.98,36.98,medium,low,10,namecheap,,,18/08/2026 10:57
 f3915b20-b0a1-47c6-a1fb-9cdeeeb6aa65,mistaken.directory,available,4.98,36.98,medium,low,8,namecheap,,,25/08/2026 01:52
 e0b0652b-9855-4b39-b0fd-bff29da57b95,liver.directory,available,4.98,36.98,high,low,5,namecheap,,,24/08/2026 08:02
+8916ac97-e556-40d3-9ed2-43fc8145e26c,neale.directory,available,4.34,21.94,medium,low,5,spaceship,,,29/09/2026 04:02
+1fc6abe3-7791-4dad-a9b7-be9d4f9da68b,elector.directory,available,4.34,21.94,medium,low,7,spaceship,,,28/09/2026 19:03
 b2ac7ba3-e52c-4b98-8f3d-4ee73b83ea4a,ideational.directory,available,4.98,36.98,medium,low,10,namecheap,,,12/08/2026 19:59
 490e52d2-7838-4984-bd05-592a1dd81e77,authorized.directory,available,8.99,26.99,high,low,10,namesilo,,,22/09/2026 13:48
 357f9521-a35c-4fec-95ce-acb406bedd16,opencast.directory,available,4.98,36.98,medium,low,8,namecheap,,,04/09/2026 16:08
@@ -870,6 +928,7 @@ d918a1ee-4c4f-43f4-86ab-330ed35fdf21,epicene.directory,available,4.98,36.98,medi
 3cae76a1-c3a6-44ec-9211-5f08a08c2737,middletown.directory,available,21.2,21.2,medium,low,10,cloudflare,,,27/09/2026 21:20
 ece562b2-9f21-4bb9-8449-f12763349e5d,knackered.directory,available,4.98,36.98,medium,low,9,namecheap,,,22/08/2026 16:23
 a29b610d-3f7f-4807-a2ff-e6e27f2286e8,repeatable.directory,available,4.98,36.98,medium,low,10,namecheap,,,09/09/2026 09:08
+03a9e69b-9b3d-4339-905f-77502830577a,flows.directory,available,8.5,,medium,low,5,unstoppable,,,28/09/2026 22:43
 4ecfa8af-aabc-43a9-9325-849aa2880e78,andante.directory,available,4.98,36.98,medium,low,7,namecheap,,,
 34c5414a-8f1d-4cce-8947-d96c7c973f53,figural.directory,available,4.98,36.98,medium,low,7,namecheap,,,18/08/2026 03:51
 dbee9c4c-7527-4c62-b825-d12e58bb0576,yummy.directory,available,4.98,36.98,high,low,5,namecheap,,,14/08/2026 00:26
@@ -884,6 +943,7 @@ cd25a079-ac51-4fac-8986-f7a5089cf0d3,marty.directory,available,8.99,26.99,high,l
 520b0b9c-a213-4fac-921b-0138e70f9d74,skimpy.directory,available,4.98,36.98,medium,low,6,namecheap,,,10/09/2026 09:36
 971986ad-fb73-4e38-b8f7-92a59118132b,evaporate.directory,available,7.99,,high,low,9,name.com,,,
 a190ca55-5ad5-4394-8c5c-feb6cf829a91,persuasive.directory,available,4.98,36.98,high,low,10,namecheap,,,08/09/2026 18:05
+5e4286ca-d159-4481-b3d5-b592ea16446a,wilderness.directory,available,8.99,26.99,high,low,10,namesilo,,,28/09/2026 15:33
 761e4691-e765-4979-9805-5f5166fa4564,expedite.directory,available,7.99,,high,low,8,name.com,,,
 d70e752c-4329-4462-9763-2c4fa30ff3bb,dividable.directory,available,4.98,36.98,medium,low,9,namecheap,,,14/08/2026 13:41
 77839b11-eba1-42cf-9d8c-78e7da146caa,hypnotic.directory,available,4.98,36.98,high,low,8,namecheap,,,21/08/2026 17:07
@@ -892,6 +952,7 @@ fdcc6405-326c-4f83-9807-405187157f12,returns.directory,available,8.99,26.99,high
 c31b6e8d-0b71-426b-8568-8ec32e83f6dd,zealous.directory,available,4.98,36.98,high,low,7,namecheap,,,13/09/2026 15:10
 94c787c4-86fb-4324-b83c-d74a6ecd9396,numbly.directory,available,4.98,36.98,low,low,6,namecheap,,,15/09/2026 08:39
 89ccb49b-cabc-45ee-b1bd-9b1b7d560a72,usb.directory,available,4.34,21.94,high,low,3,spaceship,,,28/09/2026 03:21
+92bd3d74-6561-4afc-a70f-698eca36b2c5,cavity.directory,available,8.5,,medium,low,6,unstoppable,,,28/09/2026 13:34
 303bb0cb-d8ed-4d2f-a295-cd4e14ee5c41,fails.directory,available,4.98,36.98,medium,low,5,namecheap,,,18/09/2026 00:27
 c7779d4b-e2ea-43f3-b36a-bb4ffa712e7c,holder.directory,available,7.99,,high,low,6,name.com,,,
 3fee4f2c-52fe-4a28-86fd-4971def3a8ec,glossy.directory,available,4.98,36.98,high,low,6,namecheap,,,11/08/2026 14:10
@@ -910,8 +971,10 @@ a5c0b13b-d313-4eaf-9881-d162c678c85d,garry.directory,available,4.34,21.94,high,l
 da1ae879-6dfd-4e6d-8813-e8081fe3edc3,amaterasu.directory,available,8.99,26.99,medium,low,9,namesilo,,,18/09/2026 16:05
 667a7bf5-e6d3-4360-8cc8-26274cfc9924,roberta.directory,available,4.34,21.94,high,low,7,spaceship,,,28/09/2026 03:52
 8598eb15-6915-42c6-a440-802b4b72a86c,attained.directory,available,4.98,36.98,medium,low,8,namecheap,,,07/08/2026 15:07
+62729f11-4789-4539-872e-f4847afc9c15,jansen.directory,available,8.5,,medium,low,6,unstoppable,,,28/09/2026 18:46
 140225ea-b8db-4e28-beee-74404b7ff300,blacksnake.directory,available,8.99,26.99,medium,low,10,namesilo,,,24/09/2026 01:28
 fe5a8072-55a2-409d-a508-24bb1449848f,ruiz.directory,available,4.98,36.98,medium,low,4,namecheap,,,27/09/2026 07:03
+ce8a8177-955b-4209-bd5e-53e911d6d280,conclude.directory,available,8.99,26.99,high,low,8,namesilo,,,28/09/2026 10:47
 a4d681ec-9dba-4945-a8f0-8e28338c9624,bloomfield.directory,available,4.98,36.98,medium,low,10,namecheap,,,25/09/2026 21:57
 707b1f3c-ef96-405d-b427-e171949515f1,nodded.directory,available,8.99,26.99,medium,low,6,namesilo,,,18/09/2026 03:34
 f08bbcbb-ec88-4b54-8d0b-f256f865e26a,subversive.directory,available,4.98,36.98,high,low,10,namecheap,,,22/08/2026 07:46
@@ -936,66 +999,3 @@ fc286cac-3b2f-4dcf-bd2c-4c59d1e531a6,solidified.directory,available,4.98,36.98,m
 4747a070-2692-4027-8a2e-229f913ee48f,doubtful.directory,available,4.98,36.98,medium,low,8,namecheap,,,24/09/2026 11:52
 f6124ce5-a292-46f0-a4ee-75993c9b9df0,diurnal.directory,available,4.98,36.98,medium,low,7,namecheap,,,14/08/2026 13:34
 e4e48920-0a88-4c34-a51b-cf343ec6a017,custom.directory,premium,26,26,high,low,6,namecheap,,,28/09/2026 06:31
-dd197c50-13e1-4ac4-9165-5f5f7a22dc90,promenade.directory,available,8.99,26.99,high,low,9,namesilo,,,18/09/2026 16:56
-6bed3814-5a87-4ae9-9d91-51c484df9990,alumna.directory,available,4.98,36.98,high,low,6,namecheap,,,20/08/2026 17:44
-1e15b9dc-1a7b-4597-9c9e-717bf1090be1,shelf.directory,available,,,high,low,5,,,,
-3964bd51-03d2-4f04-9959-e521ce3f3dd9,thornless.directory,available,4.98,36.98,medium,low,9,namecheap,,,11/09/2026 14:08
-e0f5841f-029a-417d-a2ba-f500c4b3befd,turquoise.directory,available,8.99,26.99,high,low,9,namesilo,,,19/09/2026 22:52
-0df54214-fd28-49b7-bc2e-682c2e656897,mundane.directory,available,4.98,36.98,high,low,7,namecheap,,,17/08/2026 14:55
-88c2884d-9d77-492b-a878-e341aa12a17d,coward.directory,available,4.98,36.98,medium,low,6,namecheap,,,24/09/2026 18:55
-2e515019-9c4f-42ea-8c34-da15601a1d9e,slut.directory,available,8.99,26.99,high,low,4,namesilo,,,17/09/2026 10:21
-670615b8-55d6-4850-a791-dd455ab3b1fe,resists.directory,available,8.99,26.99,medium,low,7,namesilo,,,18/09/2026 10:58
-45af6e16-8c57-48f6-a3a7-40c7f41ca733,axially.directory,available,4.98,36.98,medium,low,7,namecheap,,,13/09/2026 22:57
-7e718bc4-1f35-41a5-ba79-6473a01ab5d8,surge.directory,available,4.98,36.98,high,low,5,namecheap,,,23/09/2026 16:36
-b3444bad-d578-405a-ae6c-275461693c50,farmington.directory,available,21.2,21.2,medium,low,10,cloudflare,,,28/09/2026 05:41
-e18373e6-a3fc-46b2-bf16-a89fc35595e2,gia.directory,available,4.98,36.98,high,low,3,namecheap,,,20/09/2026 06:34
-85357edf-c3d4-4caf-80c7-71c1685af3ee,dovish.directory,available,4.98,36.98,medium,low,6,namecheap,,,14/08/2026 17:07
-0f4533e3-a2a0-4686-847e-9fee7cf0b7d8,established.directory,available,7.99,,high,low,11,name.com,,,
-a619e309-7494-4214-953f-c73c9c2572d3,until.directory,available,7.99,,medium,low,5,name.com,,,
-177a0900-15a0-4f37-9a98-5b7e9ec5cd3b,moderately.directory,available,8.99,26.99,medium,low,10,namesilo,,,25/09/2026 12:00
-85e65fc8-574f-4c6f-b5dc-dd4e61cacddb,silvan.directory,available,8.99,26.99,medium,low,6,namesilo,,,19/09/2026 11:29
-22f40543-dda4-4173-8fe0-5ed57f064825,pascal.directory,available,8.99,26.99,high,low,6,namesilo,,,24/09/2026 03:44
-3b24258f-4535-4ee5-ae6a-9ec723950caf,patriotism.directory,available,7.99,,high,low,10,name.com,,,
-11735b1b-9c1e-48ad-9f7e-06bebab8ab6a,beaumont.directory,premium,118.8,118.8,high,low,8,namesilo,,,22/09/2026 22:14
-7d131779-9842-40fe-bf7d-a313e63d2b8e,freiburg.directory,available,4.34,21.94,high,low,8,spaceship,,,28/09/2026 03:48
-050d6e4b-fa7b-4632-93bc-4fea44b58785,aphotic.directory,available,4.98,36.98,medium,low,7,namecheap,,,05/08/2026 23:37
-5b27d4c8-e77f-4eb8-accb-ff45e937ef67,trollope.directory,available,4.98,36.98,medium,low,8,namecheap,,,19/09/2026 13:43
-6ae72aa9-88d9-46a8-a537-2f64caeb86b8,renascent.directory,available,4.98,36.98,medium,low,9,namecheap,,,09/09/2026 13:55
-076cbe15-d5c4-4314-b5db-190400e73440,singer.directory,available,4.98,36.98,high,low,6,namecheap,,,25/09/2026 23:13
-e899eba2-7ed8-4f43-b652-8e458107e23a,silences.directory,available,8.99,26.99,low,low,8,namesilo,,,21/09/2026 10:16
-7eb24855-bb44-4a28-aa6f-bb08dcd85012,horary.directory,available,4.98,36.98,medium,low,6,namecheap,,,21/08/2026 13:58
-c020f440-cdcd-4c93-9755-c686743f59d5,massive.directory,resell,,,high,low,7,Tucows Domains Inc.,06/06/2014 07:33,06/06/2027 07:33,26/09/2026 07:27
-b752c659-6f7e-43c1-939b-40d1270d4304,rushing.directory,available,4.34,21.94,medium,low,7,spaceship,,,27/09/2026 17:20
-711b3be8-fc18-49dd-9e78-e173193a83b2,faker.directory,available,4.98,36.98,medium,low,5,namecheap,,,09/09/2026 05:01
-59919452-19bb-4386-ae8f-117df09f3c5c,adze.directory,available,8.99,26.99,medium,low,4,namesilo,,,17/09/2026 12:02
-d9b60147-678a-447c-9b92-bbc72768b08d,horrify.directory,available,8.99,26.99,medium,low,7,namesilo,,,18/09/2026 01:56
-a5b11276-9969-4c59-a386-14820f8d1754,fedex.directory,available,7.99,,high,low,5,name.com,,,
-3c959613-1165-4f64-a857-3e09058d99a3,deadpan.directory,available,7.99,33.99,medium,low,7,name.com,,,13/08/2026 19:37
-844ceb6d-d820-4c6b-978f-f7a48ccb310e,convoluted.directory,available,4.98,36.98,medium,low,10,namecheap,,,12/08/2026 23:59
-07604daa-f395-4102-80bd-bfcef59ede84,vanilla.directory,available,4.98,36.98,high,low,7,namecheap,,,13/09/2026 01:08
-470d7fe9-06a5-4f96-8ee7-10f0215e72e3,functions.directory,available,8.99,26.99,medium,low,9,namesilo,,,17/09/2026 05:18
-73508622-de50-41da-9287-88ca75233a50,roy.directory,premium,26,26,high,low,3,namecheap,,,25/09/2026 12:36
-f9a95896-97da-464c-93be-fbbce4b0969c,aspheric.directory,available,4.98,36.98,medium,low,8,namecheap,,,07/08/2026 04:52
-bfe47e1c-5295-4eec-929d-44df2ed7e0a8,tram.directory,available,4.98,36.98,high,low,4,namecheap,,,17/09/2026 12:49
-facb99b5-f6b9-4185-b847-cbb7080ad25b,sneeze.directory,available,7.99,,medium,low,6,name.com,,,
-0f611150-a574-4c1d-8739-31f7dbd951be,menacing.directory,available,4.98,36.98,medium,low,8,namecheap,,,24/08/2026 19:55
-099bb00a-1bd0-4e80-9215-68be3bcf7442,crummy.directory,available,4.98,36.98,medium,low,6,namecheap,,,11/08/2026 09:02
-a45c0ced-63d4-46fc-b931-02e4165b9567,net.directory,premium,854,854,high,medium,3,namesilo,,,25/09/2026 22:57
-cf00daee-5a06-4a38-b887-9344415715fd,coaxial.directory,available,4.98,36.98,medium,low,7,namecheap,,,12/08/2026 14:16
-ce185338-f914-4582-9507-8e4b5aa7b5b1,overgreedy.directory,available,4.98,36.98,medium,low,10,namecheap,,,04/09/2026 20:38
-2168f94e-ddea-458c-ae58-4a10a708e198,aquilegia.directory,available,8.99,26.99,medium,low,9,namesilo,,,19/09/2026 23:13
-2913e075-10f2-40f5-8d9c-c783d6a0c0cb,merciless.directory,available,4.98,36.98,medium,low,9,namecheap,,,24/08/2026 20:36
-377cc2af-c3b9-4e34-87d5-1b892d15bfba,pending.directory,available,4.98,36.98,high,low,7,namecheap,,,27/09/2026 03:20
-d0b00610-b989-43d4-a7ac-ee48e633e617,repay.directory,available,8.99,26.99,high,low,5,namesilo,,,28/09/2026 06:39
-288667f2-a0e1-4179-af48-2e76db546778,patchy.directory,available,4.98,36.98,medium,low,6,namecheap,,,08/09/2026 10:20
-3e120844-014d-4bf6-92ae-789774b7a955,nairobi.directory,premium,118.8,118.8,high,low,7,namesilo,,,24/09/2026 12:20
-2ee236b3-6040-44e9-9374-35af7eb49473,tennyson.directory,available,8.99,26.99,medium,low,8,namesilo,,,18/09/2026 06:38
-fced364a-ecd6-4d1a-aeec-fddf94523098,roily.directory,available,4.98,36.98,medium,low,5,namecheap,,,09/09/2026 18:18
-980b2a5c-99e0-419b-b280-1e4ebbdef65d,maximally.directory,available,4.98,36.98,medium,low,9,namecheap,,,15/09/2026 13:43
-d642efd4-a9c0-45fd-97d4-2e58727184b4,decisive.directory,available,4.98,36.98,high,low,8,namecheap,,,13/08/2026 21:36
-877b2bb2-bd7a-4b3c-9ef4-4ff3b140dddc,thalassic.directory,available,4.98,36.98,medium,low,9,namecheap,,,11/09/2026 12:22
-d249169c-416e-4086-9d92-4f60741c4ffb,plenary.directory,available,4.98,36.98,high,low,7,namecheap,,,08/09/2026 21:06
-663da893-56e8-4e0c-8236-fc6477f84094,officials.directory,available,8.99,26.99,medium,low,9,namesilo,,,17/09/2026 12:28
-25a463d6-8655-4a5e-90fd-da8d137176f2,fearfully.directory,available,4.98,36.98,medium,low,9,namecheap,,,14/09/2026 18:04
-eef92a8d-b79f-41c6-a67b-95d93d5855e0,fruity.directory,available,4.98,36.98,high,low,6,namecheap,,,06/08/2026 21:00
-4d16d9c8-94a3-45b6-a754-1957f2bef29d,nonrandom.directory,available,4.98,36.98,medium,low,9,namecheap,,,03/09/2026 20:26
